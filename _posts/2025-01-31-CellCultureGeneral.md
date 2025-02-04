@@ -73,7 +73,7 @@ Note: Composition of cryoprotective medium can differ (see Usefull numberes in c
 1. plate
 
 ### Appropriate volumes for the cell culture vessel
-* [Usefull numberes in cell culture](#Seeding)
+
 
 ### Protocol
 1. Remove the cryovial from liquid nitrogen storage (in laminar hood, turn the cap a quarter turn to release any residual nitrogen that may be trapped, then re-tighten the cap), or from -80 C freezer and immediately transfer to 37°C water bath
