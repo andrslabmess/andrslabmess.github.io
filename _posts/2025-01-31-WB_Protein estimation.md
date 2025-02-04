@@ -1,5 +1,5 @@
 ---
-title: Protein estimation (Bradford method)
+title: "Protein estimation (Bradford method)"
 date: 2025-01-31 
 categories: [Protocols, Western Blot]
 tags: [WB]

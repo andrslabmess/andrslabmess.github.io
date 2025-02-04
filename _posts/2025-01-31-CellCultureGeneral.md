@@ -1,5 +1,5 @@
 ---
-title: General
+title: "General"
 date: 2025-01-31 
 categories: [Protocols, Cell culture]
 tags: [Cells]

@@ -1,5 +1,5 @@
 ---
-title: Sandwich for tranfer
+title: "Sandwich for tranfer"
 date: 2025-01-31 
 categories: [Protocols, Western Blot]
 tags: [WB]

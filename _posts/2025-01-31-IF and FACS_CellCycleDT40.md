@@ -1,5 +1,5 @@
 ---
-title:  Cell cycle of DT40 cells by IF and FACS
+title:  "Cell cycle of DT40 cells by IF and FACS"
 date: 2025-01-31 
 categories: [Protocols, FACS]
 tags: [FACS, IF]

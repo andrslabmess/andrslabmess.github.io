@@ -1,5 +1,5 @@
 ---
-title: Templates - Multi-well tissue culture plates
+title: "Templates - Multi-well tissue culture plates"
 date: 2025-01-31 
 categories: [Templates, Wells]
 tags: [templ]
