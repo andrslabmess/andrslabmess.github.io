@@ -1,6 +1,11 @@
 ---
-layout: redirect
+layout: page
 icon: fas fa-dna
-redirect: https://www.imcr.uzh.ch/en/research/janscak.html
 order: 6
 ---
+
+
+
+<script>
+window.location.href = "https://www.imcr.uzh.ch/en/research/janscak.html";
+</script>
