@@ -1,8 +1,12 @@
 ---
-# the default layout is 'page'
+layout: post
+toc: true
 icon: fas fa-duotone fa-solid fa-dna
 order: 6
+author: Martin
 ---
+
+# Martin Andrš, PharmDr., Ph.D.
 
 ## Brief introduction
 <p align="justify">
