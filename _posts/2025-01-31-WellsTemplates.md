@@ -8,7 +8,7 @@ author:
 description: 
 ---
 >
-[Original source](https://www.cellsignet.com/media/templ.html)
+![Original source](https://www.cellsignet.com/media/templ.html)
 {: .prompt-tip }
 
 
