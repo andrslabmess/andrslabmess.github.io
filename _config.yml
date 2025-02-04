@@ -14,12 +14,11 @@ timezone: Europe/Zurich
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Andrs Lab mess # the main title
+title: Andrs Lab Mess # the main title
 
-tagline: Andrs Lab mess is here for these rare occasions # it will display as the sub-title
+tagline: Scientists |  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Andrs Lab mess is here for these rare occasions
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -38,8 +37,8 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/andrslabmess # change to your github homepage
+    # https://twitter.com/username # change to your twitter homepage
+    # https://github.com/andrslabmess # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -93,10 +92,10 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: uploads/ProfilePic/Untitled-1.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
