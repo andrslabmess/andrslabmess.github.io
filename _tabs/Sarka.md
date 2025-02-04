@@ -8,6 +8,7 @@ author: Sarka
 
 # Šárka Andrš Salajková, Ph.D.
 
+## Brief introduction
 <p align="justify">
  A science enthusiast and she hopes to become a scientist. In her free time, she likes just hanging around and she enjoyes creating simple drawings and artwork mainly from wires, beads and resin. She loves scientific discussion with her husband in nature. 
 </p>
