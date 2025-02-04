@@ -3,7 +3,7 @@ layout: post
 toc: true
 icon: fas fa-duotone fa-solid fa-dna
 order: 6
-author: Martin
+author: Sarka
 ---
 
 # Šárka Andrš Salajková, Ph.D.
