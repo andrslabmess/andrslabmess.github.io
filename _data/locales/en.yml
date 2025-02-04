@@ -11,12 +11,13 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
-  categories: Guidepost
+  categories: Protocols
   tags: Tags
   archives: Timeline
   Resources: Resources
   pavel: Janscak Lab
-  about: About
+  about: Martin
+  about: Šárka
 
 # the text displayed in the search bar & search results
 search:

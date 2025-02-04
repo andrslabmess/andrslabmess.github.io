@@ -1,0 +1,63 @@
+---
+# the default layout is 'page'
+icon: fas fa-duotone fa-solid fa-dna
+order: 6
+---
+
+## Brief introduction
+<p align="justify">
+Scientist and Ironman who focuses on molecular biology, but is also interested in astrophysics and geography. He loves doing sports in nature and spending time with his wife. Enjoys death and black metal music from Scandinavia, along with sci-fi and fantasy movies. He firmly believes he will qualify for the Ironman World Championship on Hawaii.
+</p>
+
+🧬 🏊 🚵 🏃 🤘
+
+## Research
+<p align="justify">
+My Ph.D. project at the Faculty of Military Health Sciences in Hradec Králové (CZE) was focused on
+the development of new inhibitors of ATM and DNA-PK kinases, therefore on the design, synthesis,
+and evaluation of synthetic compounds. It was a novel project in the department. Therefore, the goal
+was to find promising hits that could be further improved. I designed and synthesized compounds on
+the purine and pyrrolopyrimidine scaffold based on known DNA-PK inhibitors as potential
+chemosensitizing and radiosensitizing agents for potential cancer treatment. The prepared compounds
+significantly sensitized cancer cell lines towards doxorubicin treatment while not affecting the healthy
+cells. These compounds were patented and published 1,2, but more importantly, they served as
+initial hits for subsequent studies and structure optimization to get more potent compounds at the
+Biomedical Research Center in Hradec Kralove, Czech Republic. Their research still continues.
+During my study, I became more interested in the biology of DNA damage, which strengthened in
+two Erasmus+ internships at Jiří Bártek’s laboratory in Copenhagen and Rodrigo Bermejo’s
+laboratory in Madrid. To pursue this interest, I joined the laboratory of Jiří Bártek at the Institute of
+Molecular Genetics in Prague, in a subgroup led by Pavel Janščák as a postdoctoral researcher. In this
+laboratory, I joined ongoing projects studying the resolution of transcription-replication conflicts and
+R-loop formation. During this time, I discovered that DNA replication slowdown due to elevated ROS
+levels increases the incidence of TRCs and R-loop formation, leading to replication stalling and
+genome instability. This discovery had a significant impact on our understanding of how and why R-
+loops are formed
+</p>
+<p align="justify">
+I discovered that replication stress upon elevated levels of reactive oxygen species (ROS) is
+manifested through PRDX2-dependent replication slowdown and interference with transcription. In
+that case, R-loops are sources of DNA replication stalling and genome instability, as DNA replication
+can still move forward without interruption in the presence of ROS when transcription or R-loops are
+absent. In line with those results, I found that ROS-dependent replication fork slowing and R-loops
+formation triggered HU-induced replication fork reversal. In contrast, the dNTP exhaustion results in
+replication fork arrest without fork reversal, leading to fork breakage. Elevated ROS levels are
+ubiquitous both in cancer biology and cancer treatment. Therefore, this discovery opens new insights
+into studying genome instability during tumor development and opens the possibility of exploiting
+pathways dealing with handling R-loops and transcription-replication conflicts in cancer therapy.
+</p>
+<p align="justify">
+The previous discovery was followed by two research projects, each studying a different source of
+oxidative stress. In the first project, I confirmed that genomic R-loops, resulting from mitochondrial
+ROS release rather than DNA adducts or crosslinks, are responsible for DNA replication stress in
+cells treated with low-dose cisplatin. Moreover, the inhibition of key components of transcription-
+replication conflict resolution, MUS81 or PRIMPOL, sensitized cancer cells to cisplatin treatment. A
+publication summarizing these results is currently being prepared. The second project, carried out
+by Ph.D. student Marketa Dvorakova at the University of Zurich, focuses on the role of oxidative
+stress on R-loop formation upon activation of oncogenes.
+</p>
+
+
+## Triatlon
+<p align="justify">
+Triathlon has been a part of my life. It all began 26 years ago when I was 10 and joined the TRI-Ski team in Horní Počernice, a suburb of Prague. It was an amazing group of friends, which was why we remained committed to this unusual sport at that time. I wasn’t very good, but I tried to keep up with the others. After a few years, in the junior category, my hard work started to pay off, leading to my first podiums and wins. During college, my priorities shifted, but I still managed to participate in a race or two each year. The real effort began during my Ph.D. studies, with the support of Šárka. I teamed up with Hradec Králové stars Honza Volár and Pavel Petrásek, focusing on half Ironman with a distant goal of completing a full Ironman in the future. Each year, I push myself to improve. However, illnesses and COVID kept setting me back. In 2021, I completed my first Ironman in Vitoria-Gasteiz with a time of 8 hours and 20 minutes; unfortunately, the swimming portion was canceled due to fog. So, the full completion had to wait another two years due to an injury in 2022. In 2023, I finally finished the Ironman Switzerland and was even nominated for the Ironman World Championship in Nice that same year. On the challenging course of the Nice Ironman, I finished as the first Czech representative with a time of 10 hours and 13 minutes, placing 31st in my age category. I still hope to be nominated to the cradle of triathlon in Hawaii one day.
+</p>

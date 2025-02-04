@@ -1,5 +1,5 @@
 ---
 layout: categories
-icon: fas fa-map-signs
+icon: fas fa-scroll
 order: 1
 ---
