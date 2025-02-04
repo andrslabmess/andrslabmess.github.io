@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
-icon: fas fa-seedling
-order: 4
+icon: fas fa-duotone fa-solid fa-dna
+order: 7
 ---
 
 
