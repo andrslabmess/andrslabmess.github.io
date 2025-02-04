@@ -50,8 +50,6 @@ description: General protocol for cells maitanence. The most of the credit goes 
 Note: Composition of cryoprotective medium can differ (see Usefull numberes in cell culture: cryoprotective medium)
 
 ### Appropriate volumes for the cell culture vessel
-* [Usefull numberes in cell culture](#Seeding)
-* [Media cryoprotective](#Media-cryoprotective) 
 
 ### Protocol
 1. Cells should be growing well or known to be in log phase (semi-confluent, aprox. 70 - 80 %)
