@@ -1,8 +1,8 @@
 ---
 title: "Templates - Multi-well tissue culture plates"
 date: 2025-01-31 
-categories: [Templates, Wells]
-tags: [templ]
+categories: ["Templates", "Wells"]
+tags: ["templ"]
 comments: true
 author: Sarka 
 description: 
