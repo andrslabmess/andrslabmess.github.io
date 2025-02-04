@@ -4,11 +4,11 @@ date: 2025-01-31
 categories: [Templates, Wells]
 tags: [templ]
 comments: true
-author:  
+author: Sarka 
 description: 
 ---
 >
-![Original source](https://www.cellsignet.com/media/templ.html)
+[Original source](https://www.cellsignet.com/media/templ.html)
 {: .prompt-tip }
 
 
