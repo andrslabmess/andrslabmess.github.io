@@ -55,4 +55,6 @@ author: Sarka
 [Techno Tim](https://technotim.live/)<br>
 [Gerald Tuimaleali'ifano](https://geraldtui.com/)<br>
 [Jinchao Li](https://jinchaoli.com/)<br>
+[lazy Ren](https://lazyren.github.io/about/)
+
 
