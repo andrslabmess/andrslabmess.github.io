@@ -49,15 +49,14 @@ author: Sarka
 
 
 ## Illustration
-Some are lready published.
+Some have been already published.
 ***Statement:*** I am happy to help, but that is only my hobby and I would like to stay a hobby. (I learned from the past)
 
 
 ## Jekyll - The Static Site Generator: Chirpy
-[Chirpy-starter]
-[Chirpy]
-[cotes2020_jekyll-theme-chirpy]
+[Chirpy](https://chirpy.cotes.page/)<br>
+[Chirpy-starter](https://github.com/cotes2020/chirpy-starter)<br>
 [Techno Tim](https://technotim.live/)<br>
-[Gerald Tuimaleali'ifano](https://geraldtui.com/)
-[Jinchao Li](https://jinchaoli.com/)
+[Gerald Tuimaleali'ifano](https://geraldtui.com/)<br>
+[Jinchao Li](https://jinchaoli.com/)<br>
 
