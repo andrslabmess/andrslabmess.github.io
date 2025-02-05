@@ -48,10 +48,6 @@ author: Sarka
 [Mark Manson: The Subtle Art of Not Giving a F*ck](https://markmanson.net/)<br>
 
 
-## Illustration
-Some have been already published.
-***Statement:*** I am happy to help, but that is only my hobby and I would like to stay a hobby. (I learned from the past)
-
 
 ## Jekyll - The Static Site Generator: Chirpy
 [Chirpy](https://chirpy.cotes.page/)<br>
