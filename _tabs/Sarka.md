@@ -53,8 +53,7 @@ Some are lready published.
 ***Statement:*** I am happy to help, but that is only my hobby and I would like to stay a hobby. (I learned from the past)
 
 
-## Admin 
-### Jekyll - The Static Site Generator: Chirpy
+## Jekyll - The Static Site Generator: Chirpy
 [Chirpy-starter]
 [Chirpy]
 [cotes2020_jekyll-theme-chirpy]
