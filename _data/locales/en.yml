@@ -16,8 +16,10 @@ tabs:
   archives: Timeline
   Resources: Resources
   pavel: Janscak Lab
-  about: Martin
-  about: Šárka
+  Martin: Martin
+  Sarka: Šárka
+  about: in proggress
+  
 
 # the text displayed in the search bar & search results
 search:

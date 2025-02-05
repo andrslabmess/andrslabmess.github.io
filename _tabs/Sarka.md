@@ -46,3 +46,19 @@ author: Sarka
 [How are you?](https://www.how-are-you.ch/)<br>
 [UZH: Advice & Support](https://www.students.uzh.ch/en/advice.html)<br>
 [Mark Manson: The Subtle Art of Not Giving a F*ck](https://markmanson.net/)<br>
+
+
+## Illustration
+Some are lready published.
+***Statement:*** I am happy to help, but that is only my hobby and I would like to stay a hobby. (I learned from the past)
+
+
+## Admin 
+### Jekyll - The Static Site Generator: Chirpy
+[Chirpy-starter]
+[Chirpy]
+[cotes2020_jekyll-theme-chirpy]
+[Techno Tim](https://technotim.live/)<br>
+[Gerald Tuimaleali'ifano](https://geraldtui.com/)
+[Jinchao Li](https://jinchaoli.com/)
+
