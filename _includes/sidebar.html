@@ -39,13 +39,13 @@
         {% endfor %}
       </ul>
     </nav>
-    <!--
+    
     <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
       {% unless site.theme_mode %}
         <button type="button" class="btn btn-link nav-link" aria-label="Switch Mode" id="mode-toggle">
           <i class="fas fa-adjust"></i>
         </button>
-  
+  <!--
         {% if site.data.contact.size > 0 %}
           <span class="icon-border"></span>
         {% endif %}
@@ -87,8 +87,10 @@
               rel="{{ link_types }}"
             {% endunless %}
           >
+          
             <i class="{{ entry.icon }}"></i>
           </a>
+          
         {% endif %}
       {% endfor %}
     -->
