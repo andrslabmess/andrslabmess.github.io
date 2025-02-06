@@ -57,4 +57,39 @@ author: Sarka
 [Jinchao Li](https://jinchaoli.com/)<br>
 [lazy Ren](https://lazyren.github.io/about/)
 
+#### Chirpy: Change the Home page from Blog to Page
+The life is too short to make it difficult ... but there are most likely better ways .... 
 
+I made changes in `index.html`.
+
+Original:
+```bash
+---
+layout: home
+# Index page
+---
+```
+
+Current:
+```bash
+---
+layout: page
+# Index page
+---
+
+<!DOCTYPE html>
+
+<div class="container">
+    <img src="uploads/ProfilePic/Untitled-2.png" alt="Description of image" class="center">
+</div>
+
+<html>
+  <head>
+    <title>Landing Page</title>
+  </head>
+  <body>
+    <h1></h1>
+    
+  </body>
+</html>
+```
