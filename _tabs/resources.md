@@ -30,5 +30,38 @@ author: Sarka
 ### Regular Expresion
 [Regular Expresion](https://regex101.com/) <br>
 
+## Light microscopy
+
+### Center for Microscopy and Image Analysis UZH: guides
+[Click](https://zmb.dozuki.com/)
+
+### Image J/FIJI
+In progess
+
+#### NEUBIAS Network of European Bioimage Analysts
+[Click](https://www.youtube.com/@NEUBIAS)<br>
+
+### Cell Profiler
+[Web](https://cellprofiler.org/)<br>
+[You Tube tutorials](https://www.youtube.com/playlist?list=PLXSm9cHbSZBBy7JkChB32_e3lURUcT3RL)<br>
+
+## Snap gene resources
+[home](https://www.snapgene.com/resources)
+[Learn cloning](https://www.snapgene.com/resources#latest-resources)
+[Cloning Guides](https://www.snapgene.com/resources#cloning-guides)
+
+## Thermo Fisher Protocols
+[Click](https://www.thermofisher.com/ch/en/home/references/protocols.html)
+
+## Active motif resources
+[Click](https://www.activemotif.com/resources)<br>
+
+
+## Seminars, talks, lectures .... 
+* [STAT115 Lectures: chromosome organisation, epigenetics, bioinformatics](https://www.youtube.com/@xiaoleshirleyliu6474/featured)<br>
+* [Center for Physical Genomics and Engineering at Northwestern University: molecular biology, super-resolution imaging, bioengineering, physics, and chemistry](https://www.youtube.com/@PhysGenCenter/videos)<br>
+* [Active motif: Chromatin Clubs & Epigenetics Events](https://www.activemotif.com/chromatin-clubs)<br>
+<br>
+
 
 
