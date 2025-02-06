@@ -3,7 +3,6 @@ title: "General"
 date: 2025-01-31 
 categories: ["Protocols", "Cell culture"]
 tags: ["Cells"]
-comments: true
 author: Sarka 
 description: General protocol for cells maitanence. The most of the credit goes to Markéta V. as we obtained basic training and information from her. (And was patient enough to answer all our stupid questions 💖)
 ---
