@@ -57,6 +57,7 @@ author: Sarka
 [Jinchao Li](https://jinchaoli.com/)<br>
 [lazy Ren](https://lazyren.github.io/about/)
 
+<!--
 #### Chirpy: Change the Home page from Blog to Page
 The life is too short to make it difficult ... but there are most likely better ways .... 
 
@@ -93,3 +94,4 @@ layout: page
   </body>
 </html>
 ```
+-->
