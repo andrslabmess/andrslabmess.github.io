@@ -17,5 +17,6 @@ order: 9
 >![Calendar](../uploads/calendarA.png)
 {: .prompt-tip }
 
->![Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html)
+>
+[Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html)
 {: .prompt-tip }
