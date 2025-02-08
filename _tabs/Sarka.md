@@ -54,10 +54,14 @@ author: Sarka
 [Chirpy-starter](https://github.com/cotes2020/chirpy-starter)<br>
 [Techno Tim](https://technotim.live/)<br>
 [Gerald Tuimaleali'ifano](https://geraldtui.com/)<br>
+[Denise Case: Embedding a Calendar in a GitHub Pages Website](https://denisecase.github.io/web%20development/2015/07/10/add-calender-to-site/)
+
+
+<!--
 [Jinchao Li](https://jinchaoli.com/)<br>
 [lazy Ren](https://lazyren.github.io/about/)
 
-<!--
+
 #### Chirpy: Change the Home page from Blog to Page
 The life is too short to make it difficult ... but there are most likely better ways .... 
 

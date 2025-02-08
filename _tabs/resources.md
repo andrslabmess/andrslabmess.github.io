@@ -7,6 +7,10 @@ author: Sarka
 ---
 
 
+><br>
+There is definitely more amazing stuff ... just for inspiration ....
+{: .prompt-tip }
+
 
 ## Online calculators
 
@@ -62,6 +66,17 @@ In progess
 * [Center for Physical Genomics and Engineering at Northwestern University: molecular biology, super-resolution imaging, bioengineering, physics, and chemistry](https://www.youtube.com/@PhysGenCenter/videos)<br>
 * [Active motif: Chromatin Clubs & Epigenetics Events](https://www.activemotif.com/chromatin-clubs)<br>
 <br>
+IMCR UZH seminars
+
+
+
+
+## Podcasts
+* [Nature](https://www.nature.com/nature/articles?type=nature-podcast)
+* [Nature Careers](https://www.nature.com/nature/articles?type=nature-careers-podcast)
+* [Science](https://www.science.org/podcasts)
+* [PNAS](https://www.pnas.org/about/science-sessions-podcast)
+* [NASA](https://www.nasa.gov/podcasts/)
 
 
 
