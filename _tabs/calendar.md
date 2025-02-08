@@ -12,8 +12,13 @@ order: 9
 <br>
 * [IMCR UZH](https://www.imcr.uzh.ch/en/seminars.html) in person
 * [Chromatin Clubs & Epigenetics Events](https://www.activemotif.com/chromatin-clubs) online, under subscription
-
-
+<br>
+* [Center for Physical Genomics and Engineering at Northwestern University: molecular biology, super-resolution imaging, bioengineering, physics, and chemistry](https://www.youtube.com/@PhysGenCenter/videos) not include in calendar (I did not find any schedule)
+<br>
+<br>
+* More in resources
+<br>
+<br>
 
 >![Calendar](../uploads/calendarA.png)
 {: .prompt-tip }
