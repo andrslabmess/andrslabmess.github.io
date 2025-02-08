@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-icon: fas fa-duotone fa-solid
+icon: fas fa-hand-holding-seedling
 order: 4
 author: Sarka
 ---
