@@ -28,6 +28,8 @@ author: Sarka
 ### EMBL Events
 [Click](https://www.embl.org/events/)
 
+<object data= "../uploads/SaveADate/embl_2025.pdf" width="700" height="700" type='application/pdf'></object>
+
 ### EMBO Events
 [Click](https://www.embo.org/conferences-training/#/)
 
