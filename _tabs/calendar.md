@@ -18,7 +18,8 @@ order: 9
 <br>
 
 
->![Calendar](../uploads/calendarA.png)
+>
+![Calendar](../uploads/calendarA.png)
 {: .prompt-tip }
 
 >
