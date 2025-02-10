@@ -16,7 +16,7 @@ description:
 
 <object data="{{ site.url }}/../uploads/Templates - Multi-well tissue culture plates/well_templates.pdf" width="700" height="700" type="application/pdf"></object>
 
-
+<!---
 ### 6-well with lines_A4
 ![6-well with lines_A4](<../uploads/Templates - Multi-well tissue culture plates/6_notes.pdf>"6-well with lines_A4")
 
@@ -34,6 +34,7 @@ description:
 
 ### 96-well_A4
 ![text](<../uploads/Templates - Multi-well tissue culture plates/96.pdf>)
+--->
 
 
 
