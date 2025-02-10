@@ -7,7 +7,7 @@ author: Sarka
 ---
 
 # Šárka Andrš Salajková, Ph.D.
-
+<br>
 [<img src="uploads/buttons_png/contact.png" width="130" alt="email"/>]({% link _tabs/Martin.md %})
 
 
