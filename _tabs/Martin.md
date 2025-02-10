@@ -10,14 +10,11 @@ author: Martin
 <br>
 [<img src="uploads/buttons_png/ResearchGate.png" width="130" alt="ResearchGate"/>](https://www.researchgate.net/profile/Martin-Andrs) 
 [<img src="uploads/buttons_png/LinkedIn.png" width="130" alt="LinkedIn"/>](https://www.linkedin.com/in/martin-andrs-a3191584/) 
-
 [<img src="uploads/buttons_png/google.png" width="130" alt="GoogleScholar"/>](https://www.linkedin.com/in/martin-andrs-a3191584/) 
+[<img src="uploads/buttons_png/Strava.png" width="130" alt="Strava"/>](https://www.strava.com/athletes/10756654)
+[<img src="uploads/buttons_png/instagram.png" width="130" alt="Instagram"/>](https://www.instagram.com/martinandrs_tri/)
 
-[<img src="uploads/buttons_png/Strava.png" width="130" alt="Strava"/>] ()
-
-[<img src="uploads/buttons_png/instagram.png" width="130"/>]
-
-[<img src="uploads/buttons_png/email.png" width="130"/>]
+[<img src="uploads/buttons_png/email.png" width="130" alt="email"/>]
 
 
 
