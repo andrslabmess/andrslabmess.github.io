@@ -8,7 +8,7 @@ author: Sarka
 
 
 ><br>
-There is definitely more amazing stuff ... just for inspiration ....
+There is definitely more amazing stuff out there ... just for inspiration ....
 {: .prompt-tip }
 
 

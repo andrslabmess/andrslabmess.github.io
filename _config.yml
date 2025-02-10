@@ -98,10 +98,6 @@ cdn:
 avatar: uploads/ProfilePic/Untitled-1.png
 
 
-#####################################
-# --- Path to photos --- #
-#####################################
-imagesurl: "/photos/img/"
 
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.

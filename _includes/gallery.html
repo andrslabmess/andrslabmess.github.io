@@ -1,0 +1,88 @@
+<style>
+    
+.container {
+  width: 100%;
+  margin: 2rem auto; 
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(8, 5vw);
+  grid-gap: 15px; 
+}
+
+.gallery__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block; 
+}
+
+.gallery__item--1 {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 1;
+  grid-row-end: 4;
+}
+
+.gallery__item--2 {
+  grid-column-start: 5;
+  grid-column-end: 7;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+
+/*.gallery__item--3 {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 1;
+  grid-row-end: 4;
+}
+
+.gallery__item--4 {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 1;
+  grid-row-end: 4;
+}
+  */
+
+</style> 
+
+
+
+<div class="gallery">
+
+    <figure class="gallery__item gallery__item--1">
+      <img src="uploads/img/IMG20230519170406.jpg" class="gallery__img" alt="Image 1">
+    </figure>
+    <figure class="gallery__item gallery__item--2">
+      <img src="uploads/galery/pic-2.jpg" class="gallery__img" alt="Image 2">
+    </figure>
+    <figure class="gallery__item gallery__item--3">
+      <img src="uploads/galery/pic-3.jpg" class="gallery__img" alt="Image 3">
+    </figure>
+    <figure class="gallery__item gallery__item--4">
+      <img src="uploads/galery/pic-4.jpg" class="gallery__img" alt="Image 4">
+    </figure>
+    <figure class="gallery__item gallery__item--5">
+      <img src="uploads/galery/pic-5.jpg" class="gallery__img" alt="Image 5">
+    </figure>
+    <figure class="gallery__item gallery__item--6">
+      <img src="uploads/galery/pic-6.jpg" class="gallery__img" alt="Image 6">
+    </figure>
+  </div>
+
+
+
+<!--
+<article class="gallery">
+    <img src="https://assets.codepen.io/1506195/unsplash-music-0.avif" alt="guitar player at concert" />
+    <img src="https://assets.codepen.io/1506195/unsplash-music-1.avif" alt="duo singing" />
+    <img src="https://assets.codepen.io/1506195/unsplash-music-2.avif" alt="crowd cheering" />
+    <img src="https://assets.codepen.io/1506195/unsplash-music-3.avif" alt="singer performing" />
+    <img src="https://assets.codepen.io/1506195/unsplash-music-4.avif" alt="singer fistbumping crowd" />
+    
+  </article>
+    -->

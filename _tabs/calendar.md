@@ -36,6 +36,10 @@ author: Sarka
 <object data= "../uploads/SaveADate/embo_2025.pdf" width="700" height="700" type='application/pdf'></object>
 
 
+### SIB Swiss Institute of Bioinformatics
+[Upcoming Courses](https://www.sib.swiss/training/upcoming-training-courses)
+[E-learning](https://www.sib.swiss/training/e-learning)
+
 
 ### More in Resources
 

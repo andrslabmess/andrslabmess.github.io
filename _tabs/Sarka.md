@@ -7,6 +7,9 @@ author: Sarka
 ---
 
 
+{% include gallery.html %}
+
+
 # Šárka Andrš Salajková, Ph.D.
 <br>
 [<img src="uploads/buttons_png/contact.png" width="130" alt="email"/>](#contact)
@@ -107,7 +110,7 @@ layout: page
 ```
 -->
 
-### Contact 
+### Get in touch 
 {: #contact }
 
 
