@@ -33,8 +33,10 @@ author: Sarka
 ### EMBO Events
 [Click](https://www.embo.org/conferences-training/#/)
 
+<object data= "../uploads/SaveADate/embo_2025.pdf" width="700" height="700" type='application/pdf'></object>
 
-### CIF: Connecting Intermediate Filaments
 
 
-### More in Resouces
+### More in Resources
+
+[Click]({% link _tabs/resources.md %})

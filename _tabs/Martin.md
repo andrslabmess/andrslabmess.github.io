@@ -26,25 +26,7 @@ Scientist and Ironman who focuses on molecular biology, but is also interested i
 
 ## Research
 <p align="justify">
-My Ph.D. project at the Faculty of Military Health Sciences in Hradec Králové (CZE) was focused on
-the development of new inhibitors of ATM and DNA-PK kinases, therefore on the design, synthesis,
-and evaluation of synthetic compounds. It was a novel project in the department. Therefore, the goal
-was to find promising hits that could be further improved. I designed and synthesized compounds on
-the purine and pyrrolopyrimidine scaffold based on known DNA-PK inhibitors as potential
-chemosensitizing and radiosensitizing agents for potential cancer treatment. The prepared compounds
-significantly sensitized cancer cell lines towards doxorubicin treatment while not affecting the healthy
-cells. These compounds were patented and published 1,2, but more importantly, they served as
-initial hits for subsequent studies and structure optimization to get more potent compounds at the
-Biomedical Research Center in Hradec Kralove, Czech Republic. Their research still continues.
-During my study, I became more interested in the biology of DNA damage, which strengthened in
-two Erasmus+ internships at Jiří Bártek’s laboratory in Copenhagen and Rodrigo Bermejo’s
-laboratory in Madrid. To pursue this interest, I joined the laboratory of Jiří Bártek at the Institute of
-Molecular Genetics in Prague, in a subgroup led by Pavel Janščák as a postdoctoral researcher. In this
-laboratory, I joined ongoing projects studying the resolution of transcription-replication conflicts and
-R-loop formation. During this time, I discovered that DNA replication slowdown due to elevated ROS
-levels increases the incidence of TRCs and R-loop formation, leading to replication stalling and
-genome instability. This discovery had a significant impact on our understanding of how and why R-
-loops are formed
+Martin began his studies at the Faculty of Pharmacy at Charles University in Hradec Králové, Czech Republic. To do his Master’s thesis, he joined the Department of Toxicology at the Faculty of Military Health Sciences, where focused on synthesizing novel acetylcholinesterase inhibitors for Alzheimer's disease. He continued in the same department for his Ph.D., although with a new focus on developing inhibitors of ATM and DNA-PK kinases as potential chemo and radiosensitizers for cancer treatment, specifically concerning the design, synthesis, and evaluation of synthetic compounds. Throughout his studies, he became increasingly interested in the biology of DNA damage, a passion furthered by two Erasmus+ internships in Ji?í Bártek’s laboratory in Copenhagen and Rodrigo Bermejo’s laboratory in Madrid. To pursue this interest, he joined Ji?í Bártek's laboratory at the Institute of Molecular Genetics in Prague, working in a subgroup led by Pavel Janš?ák as a postdoctoral researcher. In this lab, he engaged in ongoing projects examining the resolution of transcription-replication conflicts and R-loop formation. During this time, he found that DNA replication slowdown due to elevated ROS levels increases the incidence of TRCs and R-loop formation, contributing to replication stalling and genome instability. This discovery significantly enhanced our understanding of how and why R-loops are formed. Following this, he moved to the Institute of Molecular Cancer Research at the University of Zurich, where he focused on two research projects, each investigating a different source of oxidative stress. In the first project, he established that genomic R-loops, resulting from mitochondrial ROS release rather than DNA adducts or crosslinks, cause DNA replication stress in cells treated with low-dose cisplatin. Additionally, inhibiting key components of transcription-replication conflict resolution, such as MUS81 or PRIMPOL, sensitized cancer cells to cisplatin treatment. The second project, led by Ph.D. student Markéta Dvo?áková at the University of Zurich, investigates the role of oxidative stress in R-loop formation following oncogene activation. 
 </p>
 <p align="justify">
 I discovered that replication stress upon elevated levels of reactive oxygen species (ROS) is
