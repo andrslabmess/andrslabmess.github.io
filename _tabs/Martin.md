@@ -33,3 +33,12 @@ Martin began his studies at the Faculty of Pharmacy at Charles University in Hra
 <p align="justify">
 Triathlon has been a part of my life. It all began 26 years ago when I was 10 and joined the TRI-Ski team in Horní Počernice, a suburb of Prague. It was an amazing group of friends, which was why we remained committed to this unusual sport at that time. I wasn’t very good, but I tried to keep up with the others. After a few years, in the junior category, my hard work started to pay off, leading to my first podiums and wins. During college, my priorities shifted, but I still managed to participate in a race or two each year. The real effort began during my Ph.D. studies, with the support of Šárka. I teamed up with Hradec Králové stars Honza Volár and Pavel Petrásek, focusing on half Ironman with a distant goal of completing a full Ironman in the future. Each year, I push myself to improve. However, illnesses and COVID kept setting me back. In 2021, I completed my first Ironman in Vitoria-Gasteiz with a time of 8 hours and 20 minutes; unfortunately, the swimming portion was canceled due to fog. So, the full completion had to wait another two years due to an injury in 2022. In 2023, I finally finished the Ironman Switzerland and was even nominated for the Ironman World Championship in Nice that same year. On the challenging course of the Nice Ironman, I finished as the first Czech representative with a time of 10 hours and 13 minutes, placing 31st in my age category. I still hope to be nominated to the cradle of triathlon in Hawaii one day.
 </p>
+
+
+### Contact
+
+In the case, the Outlook doesn't work. 
+
+```bash
+andrs@imcr.uzh.ch
+```
