@@ -6,9 +6,10 @@ order: 6
 author: Sarka
 ---
 
+
 # Šárka Andrš Salajková, Ph.D.
 <br>
-[<img src="uploads/buttons_png/contact.png" width="130" alt="email"/>]({% link _tabs/Martin.md %})
+[<img src="uploads/buttons_png/contact.png" width="130" alt="email"/>](#contact)
 
 
 ## Brief introduction
@@ -105,3 +106,9 @@ layout: page
 </html>
 ```
 -->
+
+### Contact 
+{: #contact }
+
+
+{% include contact-form.html %}
