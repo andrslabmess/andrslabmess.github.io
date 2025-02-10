@@ -13,12 +13,6 @@ author: Sarka
 <br>
 <br>
 
-* [IMCR UZH](https://www.imcr.uzh.ch/en/seminars.html)
-* [CCCZ Joint Cancer Meetings](https://www.usz.ch/en/event/cccz-joint-cancer-meetings-2025/) in person (include in IMCR UZH calendar)
-* [Chromatin Clubs & Epigenetics Events](https://www.activemotif.com/chromatin-clubs) online, under subscription
-
-<br>
-
 
 > Calendars include:
 * [IMCR UZH](https://www.imcr.uzh.ch/en/seminars.html)
@@ -31,4 +25,14 @@ author: Sarka
 {: .prompt-tip }
 
 
+### EMBL Events
+[Click](https://www.embl.org/events/)
 
+### EMBO Events
+[Click](https://www.embo.org/conferences-training/#/)
+
+
+### CIF: Connecting Intermediate Filaments
+
+
+### More in Resouces
