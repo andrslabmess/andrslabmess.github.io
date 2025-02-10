@@ -14,7 +14,7 @@ description:
 
 ***Work in progress:*** <br> I am not sure, way it is not appearing, but if you clik on it, it works ....<br> Šárka
 
-<object data="{{ site.url }}/../uploads/Templates - Multi-well tissue culture plates/well_templates.pdf" width="700" height="700" type="application/pdf"></object>
+<object data="{{ site.url }}/../uploads/Templates - Multi-well tissue culture plates/well_templates.pdf" width="800" height="800" type="application/pdf"></object>
 
 <!---
 ### 6-well with lines_A4
