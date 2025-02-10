@@ -3,6 +3,7 @@ layout: post
 toc: true
 icon: fas fa-calendar
 order: 9
+author: Sarka
 ---
 
 # Save a date
@@ -15,6 +16,7 @@ order: 9
 * [IMCR UZH](https://www.imcr.uzh.ch/en/seminars.html)
 * [CCCZ Joint Cancer Meetings](https://www.usz.ch/en/event/cccz-joint-cancer-meetings-2025/) in person
 * [Chromatin Clubs & Epigenetics Events](https://www.activemotif.com/chromatin-clubs) online, under subscription
+
 <br>
 
 
