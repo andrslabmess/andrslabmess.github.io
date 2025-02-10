@@ -8,13 +8,16 @@ author: Sarka
 
 # Šárka Andrš Salajková, Ph.D.
 
+[<img src="uploads/buttons_png/contact.png" width="130" alt="email"/>]({% link _tabs/Martin.md %})
+
+
 ## Brief introduction
 <p align="justify">
  A science enthusiast and she hopes to become a scientist. In her free time, she likes just hanging around and she enjoyes creating simple drawings and artwork mainly from wires, beads and resin. She loves scientific discussion with her husband in nature. 
 </p>
 🧬 🤸‍♀️ 🤘
 
-
+<!--
 ## Bio
 [More info](https://www.linkedin.com/in/%C5%A1%C3%A1rka-andr%C5%A1-salajkov%C3%A1-4ab582246/)
 
@@ -53,12 +56,13 @@ author: Sarka
 ## Jekyll - The Static Site Generator: Chirpy
 [Chirpy](https://chirpy.cotes.page/)<br>
 [Chirpy-starter](https://github.com/cotes2020/chirpy-starter)<br>
-[Techno Tim](https://technotim.live/)<br>
-[Gerald Tuimaleali'ifano](https://geraldtui.com/)<br>
+[Techno Tim](https://technotim.live/posts/jekyll-docs-site/#creating-a-post)<br>
+
 
 
 
 <!--
+[Gerald Tuimaleali'ifano](https://geraldtui.com/)<br>
 [Denise Case: Embedding a Calendar in a GitHub Pages Website](https://denisecase.github.io/web%20development/2015/07/10/add-calender-to-site/)
 [Jinchao Li](https://jinchaoli.com/)<br>
 [lazy Ren](https://lazyren.github.io/about/)
