@@ -13,8 +13,7 @@ author: Martin
 [<img src="uploads/buttons_png/google.png" width="130" alt="GoogleScholar"/>](https://www.linkedin.com/in/martin-andrs-a3191584/) 
 [<img src="uploads/buttons_png/Strava.png" width="130" alt="Strava"/>](https://www.strava.com/athletes/10756654)
 [<img src="uploads/buttons_png/instagram.png" width="130" alt="Instagram"/>](https://www.instagram.com/martinandrs_tri/)
-
-[<img src="uploads/buttons_png/email.png" width="130" alt="email"/>]
+[<img src="uploads/buttons_png/email.png" width="130" alt="email"/>](mailto:andrs@imcr.uzh.ch)
 
 
 
