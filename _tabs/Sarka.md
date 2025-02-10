@@ -19,11 +19,12 @@ author: Sarka
 [More info](https://www.linkedin.com/in/%C5%A1%C3%A1rka-andr%C5%A1-salajkov%C3%A1-4ab582246/)
 
 ## Resources
-
+<!--
 ### Just for fun
 [OSEL](https://osel.cz/)<br>
 [Compound Interest](https://www.compoundchem.com/)<br>
 [The Charismatic Voice](https://www.youtube.com/@TheCharismaticVoice)<br>
+
 
 ### Favorite authors
 [Robert Holdstock](https://cs.wikipedia.org/wiki/Robert_Holdstock)<br>
@@ -39,7 +40,7 @@ author: Sarka
 [Aerial sport:Cara Chapman](https://www.youtube.com/@cchapman1896)<br>
 [Mobility training: Nina Strojnik](https://www.youtube.com/@NinaStrojnik)<br>
 [Fitness: Maddie Lymburner](https://www.youtube.com/@MadFit)<br>
-
+-->
 
 ### “Help will always be given at Hogwarts to those who ask for it.” - Dumbledore
 [Dr Zoë J Ayres: Analytical scientist, Mental health advocate](https://www.zjayres.com/)<br>
@@ -54,10 +55,11 @@ author: Sarka
 [Chirpy-starter](https://github.com/cotes2020/chirpy-starter)<br>
 [Techno Tim](https://technotim.live/)<br>
 [Gerald Tuimaleali'ifano](https://geraldtui.com/)<br>
-[Denise Case: Embedding a Calendar in a GitHub Pages Website](https://denisecase.github.io/web%20development/2015/07/10/add-calender-to-site/)
+
 
 
 <!--
+[Denise Case: Embedding a Calendar in a GitHub Pages Website](https://denisecase.github.io/web%20development/2015/07/10/add-calender-to-site/)
 [Jinchao Li](https://jinchaoli.com/)<br>
 [lazy Ren](https://lazyren.github.io/about/)
 

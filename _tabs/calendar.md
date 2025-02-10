@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: post
+toc: true
 icon: fas fa-calendar
 order: 9
 ---
 
+# Save a date
 
 
 
@@ -11,14 +13,10 @@ order: 9
 <br>
 <br>
 * [IMCR UZH](https://www.imcr.uzh.ch/en/seminars.html) in person
+* [CCCZ Joint Cancer Meetings](https://www.usz.ch/en/event/cccz-joint-cancer-meetings-2025/) in person
 * [Chromatin Clubs & Epigenetics Events](https://www.activemotif.com/chromatin-clubs) online, under subscription
 <br>
-* [Center for Physical Genomics and Engineering at Northwestern University: molecular biology, super-resolution imaging, bioengineering, physics, and chemistry](https://www.youtube.com/@PhysGenCenter/videos) not include in calendar (I did not find any schedule)
-<br>
-<br>
-* More in resources
-<br>
-<br>
+
 
 >![Calendar](../uploads/calendarA.png)
 {: .prompt-tip }
@@ -26,3 +24,18 @@ order: 9
 >
 [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html)
 {: .prompt-tip }
+
+
+
+
+### EMBL Events
+[Click](https://www.embl.org/events/)
+
+### EMBO Events
+[Click](https://www.embo.org/conferences-training/#/)
+
+
+### CIF: Connecting Intermediate Filaments
+
+
+### More in Resouces

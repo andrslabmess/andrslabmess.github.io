@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-icon: fas fa-hand-holding-seedling
+icon: fas fa-seedling
 order: 4
 author: Sarka
 ---
@@ -79,4 +79,6 @@ IMCR UZH seminars
 * [NASA](https://www.nasa.gov/podcasts/)
 
 
-
+### Just for fun
+[OSEL](https://osel.cz/)<br>
+[Compound Interest](https://www.compoundchem.com/)<br>
