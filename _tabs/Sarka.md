@@ -106,7 +106,7 @@ layout: page
 ```
 -->
 
-### Get in touch 
+### Contact 
 {: #contact }
 
 
