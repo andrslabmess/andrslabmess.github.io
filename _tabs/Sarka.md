@@ -14,10 +14,6 @@ author: Sarka
 
 
 
-<!--{% include codepen.html (https://codepen.io/-rka-Salajkov-/pen/wBwLVqq) title="Enyo Template" %}-->
-
-<!--{% include gallery.html %}-->
-
 
 # Šárka Andrš Salajková, Ph.D.
 <br>
