@@ -88,20 +88,22 @@ In progess
 * [BBC Earth: The best nature, science and technology podcasts](https://www.bbcearth.com/news/the-best-nature-science-and-technology-podcasts)
 
 
-### Just for fun
+### Just for fun (and education)
 * [OSEL](https://osel.cz/)<br>
 * [Compound Interest](https://www.compoundchem.com/)<br>
-
+* [Servier Medical Art](https://smart.servier.com/educational-tools/)
 
 
 ## Illustrations
 
 ### Tutorials
-[
-DrawBioMed](https://www.youtube.com/@DrawBioMed)
+[DrawBioMed](https://www.youtube.com/@DrawBioMed)
 
 ### Scientific illustration websites
-https://bioart.niaid.nih.gov/
-https://bioicons.com/
-https://smart.servier.com/
-https://drawbiomed.com
+<br>
+!!! Be aware of citation & sharing !!!
+<br>
+[NIH Bioart](https://bioart.niaid.nih.gov/)
+[Bioicons](https://bioicons.com/)
+[Servier Medical Art](https://smart.servier.com/)
+[DrawBioMed](https://drawbiomed.com)
