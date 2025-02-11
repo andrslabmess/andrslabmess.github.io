@@ -6,8 +6,9 @@ order: 6
 author: Sarka
 ---
 
+{% include codepen.html hash="wBwLVqq" title="Enyo Template" %}
 
-{% include gallery.html %}
+<!--{% include gallery.html %}-->
 
 
 # Šárka Andrš Salajková, Ph.D.

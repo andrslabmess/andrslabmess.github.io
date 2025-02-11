@@ -37,7 +37,7 @@ author: Sarka
 
 
 ### SIB Swiss Institute of Bioinformatics
-[Upcoming Courses](https://www.sib.swiss/training/upcoming-training-courses)
+[Upcoming Courses](https://www.sib.swiss/training/upcoming-training-courses)<br>
 [E-learning](https://www.sib.swiss/training/e-learning)
 
 
