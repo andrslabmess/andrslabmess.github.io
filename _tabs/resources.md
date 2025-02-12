@@ -94,7 +94,7 @@ In progess
 [DrawBioMed](https://www.youtube.com/@DrawBioMed)
 
 ### Scientific illustration websites
-<br>
+
 !!! Be aware of citation & sharing !!!
 <br>
 * [NIH Bioart](https://bioart.niaid.nih.gov/)<br>
