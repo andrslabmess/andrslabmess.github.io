@@ -43,7 +43,7 @@ author: Sarka
 [Aerial sport:Cara Chapman](https://www.youtube.com/@cchapman1896)<br>
 [Mobility training: Nina Strojnik](https://www.youtube.com/@NinaStrojnik)<br>
 [Fitness: Maddie Lymburner](https://www.youtube.com/@MadFit)<br>
--->
+
 
 ### “Help will always be given at Hogwarts to those who ask for it.” - Dumbledore
 [Dr Zoë J Ayres: Analytical scientist, Mental health advocate](https://www.zjayres.com/)<br>
@@ -51,7 +51,7 @@ author: Sarka
 [UZH: Advice & Support](https://www.students.uzh.ch/en/advice.html)<br>
 [Mark Manson: The Subtle Art of Not Giving a F*ck](https://markmanson.net/)<br>
 
-
+-->
 
 ## Jekyll - The Static Site Generator: Chirpy
 [Chirpy](https://chirpy.cotes.page/)<br>

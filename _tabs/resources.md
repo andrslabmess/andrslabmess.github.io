@@ -88,12 +88,6 @@ In progess
 * [BBC Earth: The best nature, science and technology podcasts](https://www.bbcearth.com/news/the-best-nature-science-and-technology-podcasts)
 
 
-### Just for fun (and education)
-* [OSEL](https://osel.cz/)<br>
-* [Compound Interest](https://www.compoundchem.com/)<br>
-* [Servier Medical Art](https://smart.servier.com/educational-tools/)
-
-
 ## Illustrations
 
 ### Tutorials
@@ -107,3 +101,18 @@ In progess
 * [Bioicons](https://bioicons.com/)<br>
 * [Servier Medical Art](https://smart.servier.com/)<br>
 * [DrawBioMed](https://drawbiomed.com)<br>
+
+
+
+## Just for fun (and education)
+* [OSEL](https://osel.cz/)<br>
+* [Compound Interest](https://www.compoundchem.com/)<br>
+* [Servier Medical Art](https://smart.servier.com/educational-tools/)
+
+
+## “Help will always be given at Hogwarts to those who ask for it.” - Dumbledore
+[Dr Zoë J Ayres: Analytical scientist, Mental health advocate](https://www.zjayres.com/)<br>
+[How are you?](https://www.how-are-you.ch/)<br>
+[UZH: Advice & Support](https://www.students.uzh.ch/en/advice.html)<br>
+[Mark Manson: The Subtle Art of Not Giving a F*ck](https://markmanson.net/)<br>
+
