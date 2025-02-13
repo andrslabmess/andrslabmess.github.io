@@ -58,6 +58,11 @@ In progess
 * [Protocols](https://www.thermofisher.com/ch/en/home/references/protocols.html)
 * [Learning Centers](https://www.thermofisher.com/ch/en/home/technical-resources/learning-centers.html)
 
+
+## Abcam resources
+* [Technical resources](https://www.abcam.com/en-us/technical-resources)
+* [Protocols](https://www.abcam.com/en-us/technical-resources/protocols)
+
 ## Active motif resources
 * [Click](https://www.activemotif.com/resources)
 
@@ -108,6 +113,7 @@ In progess
 * [OSEL](https://osel.cz/)<br>
 * [Compound Interest](https://www.compoundchem.com/)<br>
 * [Servier Medical Art](https://smart.servier.com/educational-tools/)
+* [TEDx Talks](https://www.youtube.com/user/TEDxTalks)
 
 
 ## “Help will always be given at Hogwarts to those who ask for it.” - Dumbledore
@@ -116,3 +122,5 @@ In progess
 [UZH: Advice & Support](https://www.students.uzh.ch/en/advice.html)<br>
 [Mark Manson: The Subtle Art of Not Giving a F*ck](https://markmanson.net/)<br>
 
+## Wallpapers/Posters
+[Abcam: pathways](https://www.abcam.com/en-us/technical-resources/pathways)
