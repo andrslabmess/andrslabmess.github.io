@@ -28,6 +28,12 @@ There is definitely more amazing stuff out there ... just for inspiration ....
 * [Thermo Fisher Tm Calculator](https://www.thermofisher.com/ch/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/thermo-scientific-web-tools/tm-calculator.html) <br>
 * [NEBio Tm Calculator](https://tmcalculator.neb.com/#!/main) <br>
 
+## CUSABIO calculators
+* [Buffer Calculator](https://www.cusabio.com/m-296.html?srsltid=AfmBOorY8DASFCMuKwIU_dQXl7LX1nypWCINWtLal_V_l68AW5fi4uvL)
+* [Reconstitution / Molarity / Dilution Calculator](https://www.cusabio.com/m-298.html)
+* [Molecular Weight Calculator: DNA, RNA, peptide/protein, formula weight](https://www.cusabio.com/m-299.html)
+* [ELISA Data Analysis](https://www.cusabio.com/m-225.html)
+
 #### Cloner
 * [NEBio NEBcloner](https://nebcloner.neb.com/#!/) <br>
 
@@ -62,6 +68,10 @@ In progess
 ## Abcam resources
 * [Technical resources](https://www.abcam.com/en-us/technical-resources)
 * [Protocols](https://www.abcam.com/en-us/technical-resources/protocols)
+
+## CUSABIO resources
+* [Cesources](https://www.cusabio.com/m-192.html)
+* [Troubleshooting tips](https://www.cusabio.com/m-195.html)
 
 ## Active motif resources
 * [Click](https://www.activemotif.com/resources)
