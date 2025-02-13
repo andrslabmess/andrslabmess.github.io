@@ -31,7 +31,11 @@ description: Western Blotting.
 
 <style>
     th {
-        text-align: right;
+        text-align: center;
+    }
+
+    td {
+        text-align: center;
     }
 </style>
 <table>
