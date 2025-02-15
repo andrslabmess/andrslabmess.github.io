@@ -59,7 +59,16 @@ author: Sarka
 [Techno Tim](https://technotim.live/posts/jekyll-docs-site/#creating-a-post)<br>
 
 
+## Illustration
+<p align="center">
 
+<iframe height="890" style="width: 100%;" scrolling="no" title="Sarka" src="https://codepen.io/-rka-Salajkov-/embed/VYwLXyP?default-tab=result&theme-id=light" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/-rka-Salajkov-/pen/VYwLXyP">
+  Sarka</a> by Bezinka (<a href="https://codepen.io/-rka-Salajkov-">@-rka-Salajkov-</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
+</p>
 
 <!--
 [Gerald Tuimaleali'ifano](https://geraldtui.com/)<br>
