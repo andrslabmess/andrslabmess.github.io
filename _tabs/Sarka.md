@@ -60,6 +60,7 @@ author: Sarka
 
 
 ## Illustration
+Already published.
 <p align="center">
 
 <iframe height="890" style="width: 100%;" scrolling="no" title="Sarka" src="https://codepen.io/-rka-Salajkov-/embed/VYwLXyP?default-tab=result&theme-id=light" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
