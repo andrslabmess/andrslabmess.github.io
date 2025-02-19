@@ -57,7 +57,7 @@ author: Sarka
 [Chirpy](https://chirpy.cotes.page/)<br>
 [Chirpy-starter](https://github.com/cotes2020/chirpy-starter)<br>
 [Techno Tim](https://technotim.live/posts/jekyll-docs-site/#creating-a-post)<br>
-
+[Shaw Talebi](https://www.youtube.com/@ShawhinTalebi)
 
 ## Illustration
 Just a hobby; be aware of citation & sharing!
