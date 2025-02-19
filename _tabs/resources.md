@@ -101,6 +101,10 @@ In progess
 * [4D Nucleome](https://www.youtube.com/c/4DNucleome/featured)
 * [Center for Physical Genomics and Engineering at Northwestern University: molecular biology, super-resolution imaging, bioengineering, physics, and chemistry](https://www.youtube.com/@PhysGenCenter/videos)<br>
 * [Active motif: Chromatin Clubs & Epigenetics Events](https://www.activemotif.com/chromatin-clubs)<br>
+* [iBiology Techniques](https://www.youtube.com/@iBiologyTechniques)
+* [WEHImovies](https://www.youtube.com/@WEHImovies/videos)
+
+
 <br>
 
 * [Bioinformatics Coach](https://www.youtube.com/@bioinformaticscoach)<br>
