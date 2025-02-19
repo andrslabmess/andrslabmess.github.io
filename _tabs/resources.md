@@ -103,13 +103,14 @@ In progess
 * [Active motif: Chromatin Clubs & Epigenetics Events](https://www.activemotif.com/chromatin-clubs)<br>
 * [iBiology Techniques](https://www.youtube.com/@iBiologyTechniques)
 * [WEHImovies](https://www.youtube.com/@WEHImovies/videos)
-
+<br>
+* [Bioinformatics Coach](https://www.youtube.com/@bioinformaticscoach)<br>
+* [Bioinformatics Coach: Galaxy Tutorials for Bioinformatics](https://www.youtube.com/playlist?list=PLe1-kjuYBZ07QXg-rokpjbcqYJrgvEIHE)<br>
+* [Riffomonas Project](https://www.youtube.com/@Riffomonas)
 
 <br>
 
-* [Bioinformatics Coach](https://www.youtube.com/@bioinformaticscoach)<br>
-* [Bioinformatics Coach:Galaxy Tutorials for Bioinformatics](https://www.youtube.com/playlist?list=PLe1-kjuYBZ07QXg-rokpjbcqYJrgvEIHE)<br>
-* [Riffomonas Project](https://www.youtube.com/@Riffomonas)
+* [Life Science Zurich Young Scientist Network](https://www.lifescience-youngscientists.uzh.ch/en/aboutus.html)
 
 
 
