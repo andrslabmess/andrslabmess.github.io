@@ -102,7 +102,11 @@ In progess
 * [Center for Physical Genomics and Engineering at Northwestern University: molecular biology, super-resolution imaging, bioengineering, physics, and chemistry](https://www.youtube.com/@PhysGenCenter/videos)<br>
 * [Active motif: Chromatin Clubs & Epigenetics Events](https://www.activemotif.com/chromatin-clubs)<br>
 <br>
-* [IMCR UZH seminars]({% link _tabs/calendar.md %})
+
+* [Bioinformatics Coach](https://www.youtube.com/@bioinformaticscoach)<br>
+* [Bioinformatics Coach:Galaxy Tutorials for Bioinformatics](https://www.youtube.com/playlist?list=PLe1-kjuYBZ07QXg-rokpjbcqYJrgvEIHE)<br>
+* [Riffomonas Project](https://www.youtube.com/@Riffomonas)
+
 
 
 
