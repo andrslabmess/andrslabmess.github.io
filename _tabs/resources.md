@@ -35,8 +35,8 @@ There is definitely more amazing stuff out there ... just for inspiration ....
 * [ELISA Data Analysis](https://www.cusabio.com/m-225.html)
 
 ### PCR Master Mix Calculator
-[MERCK](https://www.sigmaaldrich.com/CH/en/support/calculators-and-apps/pcr-master-mix-calculator?srsltid=AfmBOorqCKU9LcFb4OwpfMIWnPKED2hOElTofEm0b8SSZPyXjPTEtbzQ)
-[QIAGEN](https://www.qiagen.com/us/applications/enzymes/tools-and-calculators/pcr-master-mix-calculator?mode=custom)
+* [MERCK](https://www.sigmaaldrich.com/CH/en/support/calculators-and-apps/pcr-master-mix-calculator?srsltid=AfmBOorqCKU9LcFb4OwpfMIWnPKED2hOElTofEm0b8SSZPyXjPTEtbzQ)
+* [QIAGEN](https://www.qiagen.com/us/applications/enzymes/tools-and-calculators/pcr-master-mix-calculator?mode=custom)
 
 #### Cloner
 * [NEBio NEBcloner](https://nebcloner.neb.com/#!/) <br>
