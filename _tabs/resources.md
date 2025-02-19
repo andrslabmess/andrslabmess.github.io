@@ -28,11 +28,15 @@ There is definitely more amazing stuff out there ... just for inspiration ....
 * [Thermo Fisher Tm Calculator](https://www.thermofisher.com/ch/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/thermo-scientific-web-tools/tm-calculator.html) <br>
 * [NEBio Tm Calculator](https://tmcalculator.neb.com/#!/main) <br>
 
-## CUSABIO calculators
+### CUSABIO calculators
 * [Buffer Calculator](https://www.cusabio.com/m-296.html?srsltid=AfmBOorY8DASFCMuKwIU_dQXl7LX1nypWCINWtLal_V_l68AW5fi4uvL)
 * [Reconstitution / Molarity / Dilution Calculator](https://www.cusabio.com/m-298.html)
 * [Molecular Weight Calculator: DNA, RNA, peptide/protein, formula weight](https://www.cusabio.com/m-299.html)
 * [ELISA Data Analysis](https://www.cusabio.com/m-225.html)
+
+### PCR Master Mix Calculator
+[MERCK](https://www.sigmaaldrich.com/CH/en/support/calculators-and-apps/pcr-master-mix-calculator?srsltid=AfmBOorqCKU9LcFb4OwpfMIWnPKED2hOElTofEm0b8SSZPyXjPTEtbzQ)
+[QIAGEN](https://www.qiagen.com/us/applications/enzymes/tools-and-calculators/pcr-master-mix-calculator?mode=custom)
 
 #### Cloner
 * [NEBio NEBcloner](https://nebcloner.neb.com/#!/) <br>
@@ -55,36 +59,46 @@ In progess
 * [Web](https://cellprofiler.org/)<br>
 * [You Tube tutorials](https://www.youtube.com/playlist?list=PLXSm9cHbSZBBy7JkChB32_e3lURUcT3RL)<br>
 
-## Snap gene resources
+
+## Educational and technical resources
+
+### Snap gene
 * [Home](https://www.snapgene.com/resources)
 * [Learn cloning](https://www.snapgene.com/resources#latest-resources)
 * [Cloning Guides](https://www.snapgene.com/resources#cloning-guides)
 
-## Thermo Fisher resources
+### Thermo Fisher
 * [Protocols](https://www.thermofisher.com/ch/en/home/references/protocols.html)
 * [Learning Centers](https://www.thermofisher.com/ch/en/home/technical-resources/learning-centers.html)
 
 
-## Abcam resources
+### Abcam
 * [Technical resources](https://www.abcam.com/en-us/technical-resources)
 * [Protocols](https://www.abcam.com/en-us/technical-resources/protocols)
 
-## CUSABIO resources
-* [Cesources](https://www.cusabio.com/m-192.html)
+### CUSABIO
+* [Resources](https://www.cusabio.com/m-192.html)
 * [Troubleshooting tips](https://www.cusabio.com/m-195.html)
 
-## Active motif resources
+### Active motif
 * [Click](https://www.activemotif.com/resources)
 
-## Addgene
+### Addgene
 * [Home page](https://www.addgene.org/)
 * [Educational Resources](https://www.addgene.org/educational-resources/)
 
-## Lubio Science
+### Lubio Science
 [Blog](https://www.lubio.ch/blog)
 
+
+
+
 ## Seminars, talks, lectures .... 
-* [STAT115 Lectures: chromosome organisation, epigenetics, bioinformatics](https://www.youtube.com/@xiaoleshirleyliu6474/featured)<br>
+* [STAT115 Lectures: chromosome organisation, epigenetics, bioinformatics: Website](https://liulab-dfci.github.io/teaching)<br>
+* [STAT115 Lectures: chromosome organisation, epigenetics, bioinformatics: You Tube](https://www.youtube.com/@xiaoleshirleyliu6474/featured)<br>
+* [Fragile Nucleosome: Website](https://generegulation.org/fragile-nucleosome/)
+* [Fragile Nucleosome: You Tube](https://www.youtube.com/@FragileNucleosome)
+* [4D Nucleome](https://www.youtube.com/c/4DNucleome/featured)
 * [Center for Physical Genomics and Engineering at Northwestern University: molecular biology, super-resolution imaging, bioengineering, physics, and chemistry](https://www.youtube.com/@PhysGenCenter/videos)<br>
 * [Active motif: Chromatin Clubs & Epigenetics Events](https://www.activemotif.com/chromatin-clubs)<br>
 <br>
