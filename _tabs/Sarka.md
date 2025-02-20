@@ -17,6 +17,25 @@ author: Sarka
 </p>
 🧬 🤸‍♀️ 🤘
 
+
+<div align="center">
+<table>
+  <tr>
+    <th><img src="uploads/Sarka/Sarka_gallery/s1.png" alt="" border=3 height=200 ></th>
+    <th><img src="uploads/Sarka/Sarka_gallery/s2.png" alt="" border=3 height=200 ></th>
+    <th><img src="uploads/Sarka/Sarka_gallery/s3.png" alt="" border=3 height=200 ></th>
+    <th><img src="uploads/Sarka/Sarka_gallery/s4.png" alt="" border=3 height=200 ></th>
+    <th><img src="uploads/Sarka/Sarka_gallery/s5.png" alt="" border=3 height=200 ></th>
+    <th><img src="uploads/Sarka/Sarka_gallery/s6.png" alt="" border=3 height=200 ></th>
+    <th><img src="uploads/Sarka/Sarka_gallery/s7.png" alt="" border=3 height=200 ></th>
+    <th><img src="uploads/Sarka/Sarka_gallery/s8.png" alt="" border=3 height=200 ></th>
+    <th><img src="uploads/Sarka/Sarka_gallery/s9.png" alt="" border=3 height=200 ></th>
+    <th><img src="uploads/Sarka/Sarka_gallery/s10.png" alt="" border=3 height=200 ></th>
+  </tr>
+</table>
+
+</div>
+
 <!--
 ## Bio
 [More info](https://www.linkedin.com/in/%C5%A1%C3%A1rka-andr%C5%A1-salajkov%C3%A1-4ab582246/)
