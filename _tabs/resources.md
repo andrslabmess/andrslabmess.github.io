@@ -88,10 +88,10 @@ In progess
 * [Educational Resources](https://www.addgene.org/educational-resources/)
 
 ### Lubio Science
-[Blog](https://www.lubio.ch/blog)
+* [Blog](https://www.lubio.ch/blog)
 
-
-
+### Factorbook Main TF Search
+* [Home page](https://www.factorbook.org/)
 
 ## Seminars, talks, lectures .... 
 * [STAT115 Lectures: chromosome organisation, epigenetics, bioinformatics: Website](https://liulab-dfci.github.io/teaching)<br>
@@ -100,6 +100,7 @@ In progess
 * [Fragile Nucleosome: You Tube](https://www.youtube.com/@FragileNucleosome)
 * [4D Nucleome](https://www.youtube.com/c/4DNucleome/featured)
 * [Center for Physical Genomics and Engineering at Northwestern University: molecular biology, super-resolution imaging, bioengineering, physics, and chemistry](https://www.youtube.com/@PhysGenCenter/videos)<br>
+* [MCB 182 - Principles of Genomics](https://www.coursicle.com/ucdavis/courses/MCB/182/)<br>
 * [Active motif: Chromatin Clubs & Epigenetics Events](https://www.activemotif.com/chromatin-clubs)<br>
 * [iBiology Techniques](https://www.youtube.com/@iBiologyTechniques)
 * [WEHImovies](https://www.youtube.com/@WEHImovies/videos)
