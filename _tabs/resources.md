@@ -90,7 +90,7 @@ In progess
 ### Lubio Science
 * [Blog](https://www.lubio.ch/blog)
 
-## The Cancer Genome Atlas
+## The Genome Atlas (miscellaneous)
 
 ### The Human Genome Project
 * [Home page](https://www.genome.gov/human-genome-project)
