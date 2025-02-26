@@ -96,8 +96,15 @@ In progess
 ### JASPAR database
 * [Home page](https://jaspar.elixir.no/)
 
+### Fred Hutch Data Visualization Centre
+* [Home page](https://viz.fredhutch.org/)
+* [descartes](https://descartes.brotmanbaty.org/)
+
 ### R-loopBase 
 * [Home page](https://rloopbase.nju.edu.cn/index.jsp)
+
+
+
 
 ## Seminars, talks, lectures .... 
 * [STAT115 Lectures: chromosome organisation, epigenetics, bioinformatics: Website](https://liulab-dfci.github.io/teaching)<br>
