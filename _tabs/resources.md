@@ -96,6 +96,9 @@ In progess
 ### JASPAR database
 * [Home page](https://jaspar.elixir.no/)
 
+### R-loopBase 
+* [Home page](https://rloopbase.nju.edu.cn/index.jsp)
+
 ## Seminars, talks, lectures .... 
 * [STAT115 Lectures: chromosome organisation, epigenetics, bioinformatics: Website](https://liulab-dfci.github.io/teaching)<br>
 * [STAT115 Lectures: chromosome organisation, epigenetics, bioinformatics: You Tube](https://www.youtube.com/@xiaoleshirleyliu6474/featured)<br>
