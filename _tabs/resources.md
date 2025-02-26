@@ -90,6 +90,15 @@ In progess
 ### Lubio Science
 * [Blog](https://www.lubio.ch/blog)
 
+## The Cancer Genome Atlas
+
+### The Human Genome Project
+* [Home page](https://www.genome.gov/human-genome-project)
+
+### NCI: Cancer Genome Sequencing
+* [Home Page](https://www.cancer.gov/ccg/research/genome-sequencing)
+* [NCI: The Cancer Genome Atlas](https://www.genome.gov/Funded-Programs-Projects/Cancer-Genome-Atlas)
+
 ### Factorbook Main TF Search
 * [Home page](https://www.factorbook.org/)
 
@@ -100,7 +109,8 @@ In progess
 * [Home page](https://viz.fredhutch.org/)
 * [descartes](https://descartes.brotmanbaty.org/)
 
-
+### humCFS: A database of human chromosomal fragile sites
+* [Home page](https://webs.iiitd.edu.in/raghava/humcfs/)
 
 ### R-loopBase 
 * [Home page](https://rloopbase.nju.edu.cn/index.jsp)
@@ -119,7 +129,8 @@ In progess
 * [Active motif: Chromatin Clubs & Epigenetics Events](https://www.activemotif.com/chromatin-clubs)<br>
 * [iBiology Techniques](https://www.youtube.com/@iBiologyTechniques)
 * [WEHImovies](https://www.youtube.com/@WEHImovies/videos)
-* [Human Cell Atlas: You Tube](https://www.youtube.com/@humancellatlas)
+* [Human Cell Atlas - talks](https://www.youtube.com/@humancellatlas)
+<br>
 <br>
 * [Bioinformatics Coach](https://www.youtube.com/@bioinformaticscoach)<br>
 * [Bioinformatics Coach: Galaxy Tutorials for Bioinformatics](https://www.youtube.com/playlist?list=PLe1-kjuYBZ07QXg-rokpjbcqYJrgvEIHE)<br>
