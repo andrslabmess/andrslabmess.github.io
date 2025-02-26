@@ -28,91 +28,91 @@ There is definitely more amazing stuff out there ... just for inspiration ....
 * [Thermo Fisher Tm Calculator](https://www.thermofisher.com/ch/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/thermo-scientific-web-tools/tm-calculator.html) <br>
 * [NEBio Tm Calculator](https://tmcalculator.neb.com/#!/main) <br>
 
-### CUSABIO calculators
+#### CUSABIO calculators
 * [Buffer Calculator](https://www.cusabio.com/m-296.html?srsltid=AfmBOorY8DASFCMuKwIU_dQXl7LX1nypWCINWtLal_V_l68AW5fi4uvL)
 * [Reconstitution / Molarity / Dilution Calculator](https://www.cusabio.com/m-298.html)
 * [Molecular Weight Calculator: DNA, RNA, peptide/protein, formula weight](https://www.cusabio.com/m-299.html)
 * [ELISA Data Analysis](https://www.cusabio.com/m-225.html)
 
-### PCR Master Mix Calculator
+#### PCR Master Mix Calculator
 * [MERCK](https://www.sigmaaldrich.com/CH/en/support/calculators-and-apps/pcr-master-mix-calculator?srsltid=AfmBOorqCKU9LcFb4OwpfMIWnPKED2hOElTofEm0b8SSZPyXjPTEtbzQ)
 * [QIAGEN](https://www.qiagen.com/us/applications/enzymes/tools-and-calculators/pcr-master-mix-calculator?mode=custom)
 
 #### Cloner
 * [NEBio NEBcloner](https://nebcloner.neb.com/#!/) <br>
 
-### Regular Expresion
+#### Regular Expresion
 * [Regular Expresion](https://regex101.com/) <br>
 
 ## Light microscopy
 
-### Center for Microscopy and Image Analysis UZH: guides
+#### Center for Microscopy and Image Analysis UZH: guides
 * [Click](https://zmb.dozuki.com/)
 
-### Image J/FIJI
+#### Image J/FIJI
 In progess
 
 #### NEUBIAS Network of European Bioimage Analysts
 * [You Tube tutorials](https://www.youtube.com/@NEUBIAS)<br>
 
-### Cell Profiler
+#### Cell Profiler
 * [Web](https://cellprofiler.org/)<br>
 * [You Tube tutorials](https://www.youtube.com/playlist?list=PLXSm9cHbSZBBy7JkChB32_e3lURUcT3RL)<br>
 
 
 ## Educational and technical resources
 
-### Snap gene
+#### Snap gene
 * [Home](https://www.snapgene.com/resources)
 * [Learn cloning](https://www.snapgene.com/resources#latest-resources)
 * [Cloning Guides](https://www.snapgene.com/resources#cloning-guides)
 
-### Thermo Fisher
+#### Thermo Fisher
 * [Protocols](https://www.thermofisher.com/ch/en/home/references/protocols.html)
 * [Learning Centers](https://www.thermofisher.com/ch/en/home/technical-resources/learning-centers.html)
 
 
-### Abcam
+#### Abcam
 * [Technical resources](https://www.abcam.com/en-us/technical-resources)
 * [Protocols](https://www.abcam.com/en-us/technical-resources/protocols)
 
-### CUSABIO
+#### CUSABIO
 * [Resources](https://www.cusabio.com/m-192.html)
 * [Troubleshooting tips](https://www.cusabio.com/m-195.html)
 
-### Active motif
+#### Active motif
 * [Click](https://www.activemotif.com/resources)
 
-### Addgene
+#### Addgene
 * [Home page](https://www.addgene.org/)
 * [Educational Resources](https://www.addgene.org/educational-resources/)
 
-### Lubio Science
+#### Lubio Science
 * [Blog](https://www.lubio.ch/blog)
 
 ## The Genome Atlas (miscellaneous)
 
-### The Human Genome Project
+#### The Human Genome Project
 * [Home page](https://www.genome.gov/human-genome-project)
 
-### NCI: Cancer Genome Sequencing
+#### NCI: Cancer Genome Sequencing
 * [Home Page](https://www.cancer.gov/ccg/research/genome-sequencing)
 * [NCI: The Cancer Genome Atlas](https://www.genome.gov/Funded-Programs-Projects/Cancer-Genome-Atlas)
 
-### Factorbook Main TF Search
+#### Factorbook Main TF Search
 * [Home page](https://www.factorbook.org/)
 
-### JASPAR database
+#### JASPAR database
 * [Home page](https://jaspar.elixir.no/)
 
-### Fred Hutch Data Visualization Centre
+#### Fred Hutch Data Visualization Centre
 * [Home page](https://viz.fredhutch.org/)
 * [descartes](https://descartes.brotmanbaty.org/)
 
-### humCFS: A database of human chromosomal fragile sites
+#### humCFS: A database of human chromosomal fragile sites
 * [Home page](https://webs.iiitd.edu.in/raghava/humcfs/)
 
-### R-loopBase 
+#### R-loopBase 
 * [Home page](https://rloopbase.nju.edu.cn/index.jsp)
 
 
