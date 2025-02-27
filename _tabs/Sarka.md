@@ -18,10 +18,6 @@ author: Sarka
 🧬 🤸‍♀️ 🤘
 
 
-[<img src="uploads/buttons_png/ResearchGate.png" width="130" alt="ResearchGate"/>](https://buymeacoffee.com/bezinka) 
-
-
-
 <div align="center">
 <table>
   <tr>
