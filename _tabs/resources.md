@@ -127,6 +127,7 @@ In progess
 * [Center for Physical Genomics and Engineering at Northwestern University: molecular biology, super-resolution imaging, bioengineering, physics, and chemistry](https://www.youtube.com/@PhysGenCenter/videos)<br>
 * [MCB 182 - Principles of Genomics](https://www.coursicle.com/ucdavis/courses/MCB/182/)<br>
 * [Active motif: Chromatin Clubs & Epigenetics Events](https://www.activemotif.com/chromatin-clubs)<br>
+* [Novogene: webinars](https://www.novogene.com/eu-en/resources/onlineevent/?_gl=1*1faw7ci*_up*MQ..*_gs*MQ..&gclid=CjwKCAiAt4C-BhBcEiwA8Kp0CY9YSNN8lVSQI62ESdubpyPGqQ_9HJHFujnPxz8uWPCpn0P_OQMpoBoCSAkQAvD_BwE)
 * [iBiology Techniques](https://www.youtube.com/@iBiologyTechniques)
 * [WEHImovies](https://www.youtube.com/@WEHImovies/videos)
 * [Human Cell Atlas: You Tube](https://www.youtube.com/@humancellatlas)
