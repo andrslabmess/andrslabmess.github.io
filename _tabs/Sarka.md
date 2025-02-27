@@ -9,13 +9,17 @@ author: Sarka
 # Šárka Andrš Salajková, Ph.D.
 <br>
 [<img src="uploads/buttons_png/contact.png" width="130" alt="email"/>](#contact)
-
+[<img src="uploads/buttons_png/Buy me a flower.png" width="130" alt="email"/>](https://buymeacoffee.com/bezinka)
 
 ## Brief introduction
 <p align="justify">
  A science enthusiast and she hopes to become a scientist. In her free time, she likes just hanging around and she enjoyes creating simple drawings and artwork mainly from wires, beads and resin. She loves scientific discussion with her husband in nature. 
 </p>
 🧬 🤸‍♀️ 🤘
+
+
+[<img src="uploads/buttons_png/ResearchGate.png" width="130" alt="ResearchGate"/>](https://buymeacoffee.com/bezinka) 
+
 
 
 <div align="center">
