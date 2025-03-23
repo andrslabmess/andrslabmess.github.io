@@ -1,10 +1,10 @@
 ---
-title: "Next-Generation Sequencing"
+title: "Spread DNA molecules"
 date: 2025-01-31 
-categories: ["Protocols", "Sequencing"]
-tags: ["Seq"]
+categories: ["Protocols", "Spread DNA molecules"]
+tags: ["IF", "Fibers"]
 comments: true
-author:  Sarka, Martin
+author:  Martin
 description: Next-Generation Sequencing.
 ---
 

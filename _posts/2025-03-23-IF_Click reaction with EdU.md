@@ -1,30 +1,16 @@
 ---
-title: "Next-Generation Sequencing"
+title: "Click reaction with EdU"
 date: 2025-01-31 
-categories: ["Protocols", "Sequencing"]
-tags: ["Seq"]
+categories: ["Protocols", "Immunofluorescence"]
+tags: ["IF"]
 comments: true
-author:  Sarka, Martin
+author:  ["Martin", "Sarka"]
 description: Next-Generation Sequencing.
 ---
 
 # Immunofluorescence
 
 ## Material
-
-### Pre-extraction buffer 1
-
-|CSK buffer              |     
-|:----------------------|
-|100 mM NaCl             |
-|20 mM HEPES pH 8        |
-|3 mM MgCl2              |
-|300 mM sucrose          |
-|0.5 % Triton-X          |
-
-### Pre-extraction buffer 2
-
-0.2 % Triton X in PBS
 
 ### Fixing solution
 
@@ -55,7 +41,7 @@ Filter sterilize, before each usage inspect the solution for contamination. Filt
 
 ### Cell treatment and harvest without pre-extraction
 
-1. If necessary, transfer coverslips with cells into multiwell plate
+1. If the cells are seeded onto dish: transfer coverslips with cells into multiwell plate with pre-warm medium
 1. Treat the cells, for EdU staining add 20 uM of EdU for 15 min
 1. Wash cells with r.t. 1x PBS
 1. Fix the cells with 500 uL fixing solution, leave for 15 min r.t. in the chemical hood
