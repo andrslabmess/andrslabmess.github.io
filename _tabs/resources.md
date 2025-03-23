@@ -141,6 +141,7 @@ In progess
 <br>
 
 * [Life Science Zurich Young Scientist Network](https://www.lifescience-youngscientists.uzh.ch/en/aboutus.html)
+* [EMBL Alumni: You Tube](https://www.youtube.com/@EMBLAlumniRelations)
 
 
 
