@@ -6,6 +6,8 @@ order: 6
 author: Sarka
 ---
 
+![Hero image](uploads/Sarka/coals with DNA1.png)
+
 # Šárka Andrš Salajková, Ph.D.
 <br>
 [<img src="uploads/buttons_png/contact.png" width="130" alt="email"/>](#contact)

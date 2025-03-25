@@ -47,7 +47,7 @@ description: General protocol for cells maitanence. The most of the credit goes 
 1. cryovial(s)
 1. Mr. Frosty device (pre-warmed to r.t.)
 
-Note: Composition of cryoprotective medium can differ (see Usefull numberes in cell culture: cryoprotective medium)
+***Note***: Composition of cryoprotective medium can differ (see Usefull numberes in cell culture: cryoprotective medium)
 
 ### Appropriate volumes for the cell culture vessel
 

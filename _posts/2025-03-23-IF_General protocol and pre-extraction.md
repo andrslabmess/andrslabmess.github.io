@@ -9,11 +9,14 @@ description: General protocol and pre-extraction.
 ---
 
 # Immunofluorescence
+>
+The protocol might be modify for specific cell lines; <br> works well for U2OS, Hela, RPE-1 or MDF (mouse dermal fibroblast).
+{: .prompt-tip }
 
 ## Material
 
 ### Pre-extraction buffer 1
-#### cytoskeletal buffer
+#### CSK (cytoskeletal) buffer
 <table>
   <tr>
     <th>compound</th>
@@ -47,8 +50,8 @@ description: General protocol and pre-extraction.
     <td>MgCl<sub>2</sub></td>
     <td>1 M</td>
     <td>3 mM</td>
-    <td>60 uL</td>
-    <td>120 uL</td>
+    <td>60 μL</td>
+    <td>120 μL</td>
   </tr>
   <tr>
     <td>sucrose</td>
@@ -84,8 +87,8 @@ description: General protocol and pre-extraction.
 <table>
   <tr>
     <th>compound</th>
-    <th>stock concentration</th>
-    <th>final concentration</th>
+    <th>stock conc</th>
+    <th>final conc</th>
     <th>volume [mL]</th>
     <th>volume [mL]</th>
   </tr>
@@ -107,15 +110,15 @@ description: General protocol and pre-extraction.
     <td>EDTA</td>
     <td>0.5 M</td>
     <td>1 mM</td>
-    <td>40 uL</td>
-    <td>80 uL</td>
+    <td>40 μL</td>
+    <td>80 μL</td>
   </tr>
     <tr>
     <td>MgCl<sub>2</sub></td>
     <td>1 M</td>
     <td>3 mM</td>
-    <td>60 uL</td>
-    <td>120 uL</td>
+    <td>60 μL</td>
+    <td>120 μL</td>
   </tr>
   <tr>
     <td>sucrose</td>
@@ -143,7 +146,7 @@ description: General protocol and pre-extraction.
 ### Pre-extraction buffer 2
 
 0.2 % Triton X in PBS<br>
-note: more stringent; can be used for proteins bound to DNA
+***note***: more stringent; can be used for proteins bound to DNA
 
 ### Fixing solution
 
@@ -177,19 +180,19 @@ Filter sterilize, before each usage inspect the solution for contamination. Filt
 1. wash cells with r.t. 1x PBS
 1. add 500 uL of ice-cold pre-extraction buffer and leave it on ice for 5 - 10 minutes
 1. wash the cells with ice-cold preextraction buffer without Triton-X
-1. fix the cells with 500 uL fixing solution, leave for 15 min r.t. in the chemical hood
+1. fix the cells with 500 μL fixing solution, leave for 15 min r.t. in the chemical hood
 1. wash coverslips 3 times with 1x PBS
 1. when staining PCNA: fix the cells addditionally with -20°C methanol (20 min at -20°C); wash 3x with 1x PBS
 
 ### Staining
 
-In humid (dark) chamber. 
+*In humid (dark) chamber:* 
 1. transfer coverslips into a humid chamber, cells facing up. 
 1. quickly add 100 uL 3% BSA in PBS on top of the coverslip, leave for 15 min, r.t. to block the cells. Avoid drying up of coverslips
 1. wash coverslips 1x with 1xPBS, 1x with blocking solution
 1. add primary antibodies, 50 uL on top of a coverslip, keep for 90 min in dark
-1. Wash coverslips 3 times with 1x PBS, roughly 200 uL
-1. Add secondary antibodies, 50 uL on top of a coverslip, keep for 30-60 min in dark
-1. Wash with 1x PBS
-1. Stain with DAPI, 1:2000 (1 ug/ml) 
+1. wash coverslips 3 times with 1x PBS, roughly 200 uL
+1. add secondary antibodies, 50 μL on top of a coverslip, keep for 30-60 min in dark
+1. wash with 1x PBS
+1. stain with DAPI, 1:2000 (1 μg/ml) 
 
