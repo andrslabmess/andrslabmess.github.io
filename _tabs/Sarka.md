@@ -15,7 +15,7 @@ author: Sarka
 
 ## Brief introduction
 <p align="justify">
- A science enthusiast and she hopes to become a scientist. In her free time, she likes just hanging around and she enjoyes creating simple drawings and artwork mainly from wires, beads and resin. She loves scientific discussion with her husband in nature. 
+ A science enthusiast and she hopes to become a scientist. In her free time, she likes just hanging around and she enjoyes creating simple drawings and artwork mainly from wires, beads and resin. She loves scientific discussion with her husband in nature. Despite being private, she belive in power of communities. 
 </p>
 🧬 🤸‍♀️ 🤘
 
