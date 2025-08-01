@@ -18,7 +18,7 @@ author: Sarka
 
 ## Brief introduction
 <p align="justify">
- A science enthusiast with strong interest in chromatin reoganisation during nucleolar processes. In her free time, she likes just hanging around and she enjoyes creating minimalist illustration. She loves scientific discussion with her husband our Sunday walk in the forest. Despite being private, she belives in power of communities. 
+ A science enthusiast with strong interest in chromatin reoganisation during nucleolar processes. In her free time, she likes just hanging around and she enjoyes creating minimalist illustration and DIY. She loves scientific discussion with her husband our Sunday walk in the forest. Despite being private, she belives in power of communities. 
 </p>
 🧬 🤸‍♀️ 🤘
 

@@ -11,8 +11,9 @@ permalink: /2025-07-31-Illustrations/
 
 
 
-![Bezinka](uploads/Sarka/coals with DNA1.png){: .left width="70" height="40" }
+![Bezinka](uploads/Sarka/flower_03_150ppi.png){: .left width="100" height="100" }
 Minimalist illustration in Adobe Illustrator to easily communicate ideas or to make my friends smile.
+The beggining was in drawing reaction schemes and mechanisms in organic chemistry on the paper and in software for chemical drawing (Chemsketch, ChemBioDraw, Marvin). I draw my first scientific cartoon in 2016 in Powerpoint and I had my first access to Adobe Illustrator (and Photoshop) in 2018/2019 at Institute of Molecular Genetics of the Czech Academy of Sciences. I was very lucky, because I became friend with super creative members of Pavel Jansčák subgroup, who had been already skilled with the software. :-) Their heartwarming artwork became my inspiration and motivation. Nevertheless, I met very talented people with great ideas during my academic carreer and my art work improved thanks to them ... (e.g. Edu alias Artkemystic: @artkemystic_science). My inspiration mostly originates from research and rearched groups I follow and daily life (struggles).   
 
 
 ## Illustrations 
