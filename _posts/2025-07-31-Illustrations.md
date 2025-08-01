@@ -35,7 +35,7 @@ Inspiration by studio Ghibli. <br>
 
 ### Coals with DNA
 
-![image](uploads/Sarka/Illustrations/coals with DNA_150ppi.png){: .centre width="300" }
+![image](uploads/Sarka/Illustrations/coals with DNA_150ppi.png){: .centre width="320" }
 
 ### Life balance
 ![image](uploads/Sarka/Illustrations/300725_Life balance_150_B.png)
