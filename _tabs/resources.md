@@ -136,7 +136,8 @@ In progess
 <br>
 * [Bioinformatics Coach](https://www.youtube.com/@bioinformaticscoach)<br>
 * [Bioinformatics Coach: Galaxy Tutorials for Bioinformatics](https://www.youtube.com/playlist?list=PLe1-kjuYBZ07QXg-rokpjbcqYJrgvEIHE)<br>
-* [Riffomonas Project](https://www.youtube.com/@Riffomonas)
+* [Riffomonas Project](https://www.youtube.com/@Riffomonas)<br>
+* [Bioinformagician](https://www.youtube.com/@Bioinformagician)<br>
 
 <br>
 
