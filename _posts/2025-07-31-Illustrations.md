@@ -15,9 +15,8 @@ permalink: /2025-07-31-Illustrations/
 <p align="justify">
 
 <b><i>Minimalist illustration in Adobe Illustrator to easily communicate ideas or to make my friends smile. </i> </b>
-My journey into scientific illustration began with drawing reaction schemes and mechanisms for organic chemistry on paper and in software like ChemDraw and ChemSketch. In 2016, I created my first scientific cartoon using PowerPoint. My skills really took off when I gained access to Adobe Illustrator and Photoshop in 2018 at the Institute of Molecular Genetics of the Czech Academy of Sciences.
-I was lucky enough to befriend the incredibly creative members of Pavel Jansčák's subgroup, who were already skilled with the software. Their heartfelt artwork became a huge source of inspiration and motivation for me.  My skills continued to grow thanks to many other talented people I met throughout my academic career, including Edu (@artkemystic_science). My inspiration comes from the research groups I follow and the everyday struggles of a (scientist's) life.
-
+<!-- My journey into scientific illustration began with drawing reaction schemes and mechanisms for organic chemistry on paper and in software like ChemDraw and ChemSketch. In 2016, I created my first scientific cartoon using PowerPoint. My skills really took off when I gained access to Adobe Illustrator and Photoshop in 2018 at the Institute of Molecular Genetics of the Czech Academy of Sciences.
+I was lucky enough to befriend the incredibly creative members of Pavel Jansčák's subgroup, who were already skilled with the software. Their heartfelt artwork became a huge source of inspiration and motivation for me. My skills continued to grow thanks to many other talented people I met throughout my academic career, including Edu (@artkemystic_science). --> My inspiration comes from the research groups I follow and the everyday struggles of a (scientist's) life. </br>
 To ensure the text has a good flow and is easy to read, I sometimes use Gemini for suggestions. While the ideas are all mine, I can't take all the credit for the perfect wording — my English is still a work in progress! :-)   
 </p>
 
