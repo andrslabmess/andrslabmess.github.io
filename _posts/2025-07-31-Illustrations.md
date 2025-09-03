@@ -39,6 +39,11 @@ Inspiration by studio Ghibli. <br>
 
 ![image](uploads/Sarka/Illustrations/coals with DNA_150ppi.png){: .centre width="320" }
 
+### For Martin; Cold Spring Harbour 2025
+Inspiration: Jansčák's research, Primpol design: [PrimPol—Prime Time to Reprime ](https://doi.org/10.3390/genes8010020)
+![image](uploads/Martin/for MartinHeroImg150.png){: .centre width="320" }
+
+
 ### Life balance
 ![image](uploads/Sarka/Illustrations/300725_Life balance_150_B.png)
 

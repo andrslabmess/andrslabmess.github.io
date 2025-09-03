@@ -5,6 +5,7 @@ icon: fas fa-duotone fa-solid fa-dna
 order: 6
 author: Martin
 ---
+![HeroImage](uploads/Martin/for MartinHeroImg150.png)
 
 # Martin Andrš, PharmDr., Ph.D.
 <br>
