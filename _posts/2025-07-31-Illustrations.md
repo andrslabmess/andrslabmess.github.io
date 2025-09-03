@@ -43,6 +43,8 @@ Inspiration by studio Ghibli. <br>
 Inspiration: Jansčák's research, Primpol design: [PrimPol—Prime Time to Reprime ](https://doi.org/10.3390/genes8010020)
 ![image](uploads/Martin/for MartinHeroImg150.png){: .centre width="320" }
 
+### Fibers
+![image](uploads/Sarka/Illustrations/Fibers150.png){: .centre width="320" }
 
 ### Life balance
 ![image](uploads/Sarka/Illustrations/300725_Life balance_150_B.png)
