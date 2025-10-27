@@ -8,12 +8,14 @@ author:  Sarka
 description:
 ---
 
+# Library preparation
+
 Hi, <br>
 I hope, you find this useful. 
 
 
 ## My notes:
-* it was part of exp. 20, I leave only my notes, no data; for that, you have to check my elab book ... 
+* it was part of exp. 20_Sequencing with Cristiana, I leave only my notes, no data; for that, you have to check my lab book ... 
 <object data= "{{ site.url }}/../uploads/Sarka/protocols/Exp.20_Library prep. with Cristiana.pdf" width="700" height="700" type='application/pdf'></object>
 
 
