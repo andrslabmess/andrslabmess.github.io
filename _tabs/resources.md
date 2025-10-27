@@ -41,6 +41,9 @@ There is definitely more amazing stuff out there ... just for inspiration ....
 #### Cloner
 * [NEBio NEBcloner](https://nebcloner.neb.com/#!/) <br>
 
+#### Pooling Calculator
+*[Illumina](https://support.illumina.com/help/pooling-calculator/pooling-calculator.htm)
+
 #### Regular Expresion
 * [Regular Expresion](https://regex101.com/) <br>
 

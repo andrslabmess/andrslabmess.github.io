@@ -30,6 +30,19 @@ I hope, you find this useful.
 
 <object data= "{{ site.url }}/../uploads/Sarka/protocols/manualE7103-E7645.pdf" width="700" height="700" type='application/pdf'></object>
 
-## Learn about Illumina's Next-Generation Sequencing Workflow
+
+## Further resources
+
+### Pooling Calculator Illumina
+[Click](https://support.illumina.com/help/pooling-calculator/pooling-calculator.htm)
+
+
+### Setting up the PCR Reaction
+[Setting up the PCR Reaction - NEBNext Multiplex Oligos for Illumina (Dual Index Primers Set 1) (E7600)](https://www.neb.com/en/protocols/2015/01/23/setting-up-the-pcr-reaction-e7600)
+
+### Multiplex Oligos for Illumina Protocol
+[Click](https://www.cellsignal.com/learn-and-support/protocols/multiplex-oligos-illumina-dual-index)
+
+### Learn about Illumina's Next-Generation Sequencing Workflow
 [Illumina's Next-Generation Sequencing Workflow](https://www.youtube.com/watch?v=oIJaA6h2bFM&ab_channel=Illumina)
 
