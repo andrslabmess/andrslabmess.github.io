@@ -32,7 +32,7 @@ some of them already published
 </p>
 
 ## Replication-Transcription Conflicts puzzles
-![Puzzles](Puzzle-2.png){: .centre width="320" }
+![Puzzles](uploads/Sarka/Illustrations/Puzzle.png){: .centre width="320" }
 
 ## Susuwatari
 Inspiration by studio Ghibli. <br>
