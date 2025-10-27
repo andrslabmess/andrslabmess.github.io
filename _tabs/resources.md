@@ -6,6 +6,8 @@ order: 4
 author: Sarka
 ---
 
+![image](uploads/Sarka/Illustrations/300725_Life balance_150_B.png)
+
 
 ><br>
 There is definitely more amazing stuff out there ... just for inspiration ....
