@@ -31,8 +31,6 @@ some of them already published
 
 </p>
 
-## Replication-Transcription Conflicts puzzles
-![image](Puzzle-1.png){: .centre width="320" }
 
 ## Susuwatari
 Inspiration by studio Ghibli. <br>
