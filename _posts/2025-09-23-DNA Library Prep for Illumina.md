@@ -1,0 +1,31 @@
+---
+title: "For Philip and Francesco :-)"
+date: 2025-07-31 
+categories: ["Z_Miscellaneous"]
+tags: ["Sequencing"]
+comments: truee
+author:  Sarka
+description:
+---
+
+Hi, 
+I hope, you find this useful. 
+
+
+## My notes:
+* it was part of exp. 20, I leave only my notes, no data; for that, you have to check my elab book ... 
+<object data= "../uploads/Sarka/protocols/Exp.20_Library prep. with Cristiana.pdf" width="700" height="700" type='manual/pdf'></object>
+
+## Library Preparation for Illumina
+* I find this one very usefull 
+* it includes also videos with "real life tips" - description of each bellow
+[Library Preparation for Illumina](https://www.neb.com/en/products/next-generation-sequencing-library-preparation/library-preparation-for-illumina)
+
+## NEBNext® Ultra™ II DNA Library Prep Kit for Illumina®
+[INSTRUCTION MANUAL](https://www.neb.com/en/products/e7645-nebnext-ultra-ii-dna-library-prep-kit-for-illumina?srsltid=AfmBOoqiEkfW6zqIcwvkYSi56rQCwjE8mcNlP18ZxYh8qNVfFuVry5WV)
+
+<object data= "../uploads/Sarka/protocols/manualE7103-E7645.pdf" width="700" height="700" type='manual/pdf'></object>
+
+## Learn about Illumina's Next-Generation Sequencing Workflow
+[Illumina's Next-Generation Sequencing Workflow](https://www.youtube.com/watch?v=oIJaA6h2bFM&ab_channel=Illumina)
+
