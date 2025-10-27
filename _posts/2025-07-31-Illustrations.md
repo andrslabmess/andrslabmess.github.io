@@ -30,8 +30,9 @@ some of them already published
 </iframe>
 
 </p>
-## Replication-Transcription 
-![image](c:\Users\salaj\OneDrive\Plocha\blusky\puzzle\Puzzle.png){: .centre width="320" }
+
+## Replication-Transcription Conflicts puzzles
+![image](Puzzle-1.png){: .centre width="320" }
 
 ## Susuwatari
 Inspiration by studio Ghibli. <br>
