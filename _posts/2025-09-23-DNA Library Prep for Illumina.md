@@ -21,8 +21,9 @@ I hope, you find this useful.
 
 ## Library Preparation for Illumina
 * I find this one very usefull 
-* it includes also videos with "real life tips" - description of each bellow
-[Library Preparation for Illumina](https://www.neb.com/en/products/next-generation-sequencing-library-preparation/library-preparation-for-illumina)
+* it includes also videos with "real life tips" on right side - description of each bellow
+
+[Library Preparation for Illumina: text & videos](https://www.neb.com/en/products/next-generation-sequencing-library-preparation/library-preparation-for-illumina)
 
 ## NEBNext® Ultra™ II DNA Library Prep Kit for Illumina®
 [INSTRUCTION MANUAL](https://www.neb.com/en/products/e7645-nebnext-ultra-ii-dna-library-prep-kit-for-illumina?srsltid=AfmBOoqiEkfW6zqIcwvkYSi56rQCwjE8mcNlP18ZxYh8qNVfFuVry5WV)
