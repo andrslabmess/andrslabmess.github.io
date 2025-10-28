@@ -50,6 +50,11 @@ author: Sarka
 <br>
 
 
+## Galaxy server
+[The European Galaxy server](https://usegalaxy.eu/)
+[Galaxy Training!](https://training.galaxyproject.org/training-material/)
+[Galaxy Training Academy 2025](https://training.galaxyproject.org/training-material/events/2025-05-12-galaxy-academy-2025.html)
+
 ## Contact 
 {: #contact }
 
