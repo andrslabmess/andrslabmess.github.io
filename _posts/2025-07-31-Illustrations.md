@@ -38,6 +38,10 @@ some of them already published
 Inspiration by studio Ghibli. <br>
 [wikipedia: Susuwatari](https://en.wikipedia.org/wiki/Susuwatari#:~:text=Susuwatari%20are%20described%20and%20shown,many%20times%20their%20own%20weight.)
 
+### RmDup
+
+![image](uploads/Sarka/rmdup.png){: .centre width="320" }
+
 ### Coals with DNA
 
 ![image](uploads/Sarka/Illustrations/coals with DNA_150ppi.png){: .centre width="320" }
