@@ -21,7 +21,7 @@ author: Martin
  Comming soon!!!! <br>
 <br>
 <br>
- For more information follow Martin's Bluesky ... 
+ For more information follow Martin's social media ... 
 <br>
 
 
@@ -29,5 +29,4 @@ author: Martin
 
 
 
-<br>
-[<img src="uploads/buttons_png/BlueSky_only.png" width="130" alt="email"/>](https://bsky.app/profile/andrsm.bsky.social)
+
