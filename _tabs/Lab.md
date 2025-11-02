@@ -10,6 +10,7 @@ author: Martin
 # Andrš Lab
 <br>
 [<img src="uploads/buttons_png/BlueSky.png" width="130" alt="email"/>](https://bsky.app/profile/andrsm.bsky.social)
+[<img src="uploads/buttons_png/LinkedIn.png" width="130" alt="LinkedIn"/>](https://www.linkedin.com/in/martin-andrs-a3191584/) 
 
 
 
