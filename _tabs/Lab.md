@@ -5,7 +5,7 @@ icon: fas fa-duotone fa-solid fa-dna
 order: 8
 author: Martin
 ---
-![HeroImage](uploads/Sarka/Illustrations/Puzzle.png)
+![HeroImage](uploads/Martin/251107_Banner.png)
 
 # Andrš Lab
 <br>
@@ -18,7 +18,7 @@ author: Martin
  Congratulation to Martin!!! <br>
 <br>
 <br>
- Comming soon!!!! <br>
+ Launching Soon!!!! <br>
 <br>
 <br>
  For more information follow Martin's social media ... 
