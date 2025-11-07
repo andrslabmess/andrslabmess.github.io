@@ -16,13 +16,12 @@ author: Martin
 
 
 <H1 align="center">
- Congratulation to Martin!!! <br>
-<br>
+
 <br>
  Launching Soon!!!! <br>
 <br>
 <br>
- For more information follow Martin's social media ... 
+ More information on social media ... 
 <br>
 
 
