@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-dna
-order: 9
+order: 6
 ---
 
 
