@@ -17,6 +17,7 @@ author: Sarka
 > Calendars include:
 * [IMCR UZH](https://www.imcr.uzh.ch/en/seminars.html) in person: Irchel Campus; Y10 G03/04
 * [CCCZ Joint Cancer Meetings](https://www.usz.ch/en/event/cccz-joint-cancer-meetings-2025/) in person (include in IMCR UZH calendar)
+* [Events IEM CAS](https://www.usz.ch/en/event/cccz-joint-cancer-meetings-2025/) in person/somethimes online
 * [Chromatin Clubs & Epigenetics Events](https://www.activemotif.com/chromatin-clubs) online, under subscription
 {: .prompt-tip }
 
