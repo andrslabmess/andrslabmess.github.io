@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-icon: fas fa-duotone fa-solid fa-dna
+icon: fas fa-solid fa-user-gear
 order: 8
 author: Sarka
 ---
