@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-icon: fas fa-solid fa-flower-daffodil
+icon: fas fa-duotone fa-solid fa-dna
 order: 4
 author: Sarka
 ---
