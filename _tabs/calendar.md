@@ -29,12 +29,12 @@ author: Sarka
 ### EMBL Events
 [Click](https://www.embl.org/events/)
 
-<object data= "../uploads/SaveADate/embl_2025.pdf" width="700" height="700" type='application/pdf'></object>
+<object data= "../uploads/SaveADate/embl_2026.pdf" width="700" height="700" type='application/pdf'></object>
 
 ### EMBO Events
 [Click](https://www.embo.org/conferences-training/#/)
 
-<object data= "../uploads/SaveADate/embo_2025.pdf" width="700" height="700" type='application/pdf'></object>
+<object data= "../uploads/SaveADate/embo events_2025-2026.pdf" width="700" height="700" type='application/pdf'></object>
 
 
 ### SIB Swiss Institute of Bioinformatics
