@@ -22,6 +22,12 @@ DNA replication, DNA damage, oxidative stress, R-loops, cancer
 <br>
 <br>
 
+## ***More information***
+ [Official website](https://www.iem.cas.cz/en/department/department-of-genome-biology/)
+
+## ***Open position***
+[Click]({% link _tabs/Open position.md %})
+
 ## ***Group members***
 
 ### Martin Andrš, PharmDr., Ph.D.
