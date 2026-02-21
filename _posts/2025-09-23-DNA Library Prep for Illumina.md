@@ -1,7 +1,7 @@
 ---
 title: "For Philip and Francesco :-)"
 date: 2025-07-31 
-categories: ["Z_Miscellaneous", "My notes"]
+categories: ["Z_Miscellaneous SaS", "Notes"]
 tags: ["Sequencing"]
 comments: truee
 author:  Sarka

@@ -1,7 +1,7 @@
 ---
 title: "Illustrations"
 date: 2025-07-31 
-categories: ["Z_Miscellaneous", "Illustrations"]
+categories: ["Z_Miscellaneous SaS", "Illustrations"]
 tags: ["Illustration"]
 comments: truee
 author:  Sarka
