@@ -50,7 +50,8 @@ author: Sarka
 [Shaw Talebi](https://www.youtube.com/@ShawhinTalebi)<br>
 <br>
 
-
+## Miscellaneous
+<a href="https://www.youtube.com/watch?v=Jl9cUmyVuPQ" target="_blank">Outlook Signature setup with Logo (The Easiest Way)</a><br>
 
 ## Contact 
 {: #contact }
