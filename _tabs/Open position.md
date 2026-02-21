@@ -17,7 +17,6 @@ author: Šárka
 ***References:*** Provide contact details for two referees.<br>
 ***Send your application to hedvika.vlastnikova@iem.cas.cz***<br>
 ***Application deadline:*** Rolling until February 28th 2026 or until the position is filled.<br>
-
 <a href="https://www.iem.cas.cz/en/jobs/postdoc-department-genome-biology/" target="_blank">Postdoctoral Researcher IEM</a><br>
 {: .prompt-tip }
 <br>
