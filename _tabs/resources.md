@@ -19,7 +19,10 @@ There is definitely more amazing stuff out there ... just for inspiration ....
 
 #### Molarity Calculator
 * [Molarity Calculator Sigma](https://www.sigmaaldrich.com/CH/fr/support/calculators-and-apps/mass-molarity-calculator?srsltid=AfmBOorsaac7BKk0WhD5_x0mo4iELr1S1a1lRS4quN9XICQeIxsh77vj) <br>
+* <a href="https://www.sigmaaldrich.com/CH/fr/support/calculators-and-apps/mass-molarity-calculator?srsltid=AfmBOorsaac7BKk0WhD5_x0mo4iELr1S1a1lRS4quN9XICQeIxsh77vj" target="_blank">Molarity Calculator Sigma</a><br>
+
 * [Molar Solution Concentration Calculator](https://www.physiologyweb.com/calculators/molar_solution_concentration_calculator.html) <br>
+* <a href="https://www.physiologyweb.com/calculators/molar_solution_concentration_calculator.html" target="_blank">Molar Solution Concentration Calculator</a><br>
 
 #### Ligation Calculator
 * [NEBio Ligation Calculator](https://nebiocalculator.neb.com/#!/ligation) <br>
@@ -118,7 +121,11 @@ In progess
 #### R-loopBase 
 * [Home page](https://rloopbase.nju.edu.cn/index.jsp)
 
-
+#### Galaxy server
+* [The European Galaxy server](https://usegalaxy.eu/)<br>
+* [Galaxy Training!](https://training.galaxyproject.org/training-material/)<br>
+* [Galaxy Training Academy 2025](https://training.galaxyproject.org/training-material/events/2025-05-12-galaxy-academy-2025.html)<br>
+<br>
 
 
 ## Seminars, talks, lectures .... 

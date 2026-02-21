@@ -24,6 +24,7 @@ DNA replication, DNA damage, oxidative stress, R-loops, cancer
 
 ## ***More information***
  [Official website](https://www.iem.cas.cz/en/department/department-of-genome-biology/)
+ <a href="https://www.iem.cas.cz/en/department/department-of-genome-biology/" target="_blank">Department of genome biology IEM CAS</a><br>
 
 ## ***Open position***
 [Click]({% link _tabs/Open position.md %})
