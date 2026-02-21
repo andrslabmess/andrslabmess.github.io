@@ -11,8 +11,8 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
-  categories: Protocols
-  tags: Tags
+  Protocols: Protocols
+  Tags: Tags
   archives: Timeline
   Resources: Resources
   pavel: Janscak Lab
@@ -20,7 +20,7 @@ tabs:
   Sarka: Šárka
   Department of Genome Biology: Department of Genome Biology 
   about: in proggress
-  calendar: Save a date
+  Save a date: Save a date
   
 
 # the text displayed in the search bar & search results
