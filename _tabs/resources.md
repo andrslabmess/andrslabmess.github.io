@@ -18,10 +18,7 @@ There is definitely more amazing stuff out there ... just for inspiration ....
 * [This Toolbox features science tools and resources for chemistry, life science, materials science and more.](https://www.sigmaaldrich.com/CH/en/support/calculators-and-apps)
 
 #### Molarity Calculator
-* [Molarity Calculator Sigma](https://www.sigmaaldrich.com/CH/fr/support/calculators-and-apps/mass-molarity-calculator?srsltid=AfmBOorsaac7BKk0WhD5_x0mo4iELr1S1a1lRS4quN9XICQeIxsh77vj) <br>
 * <a href="https://www.sigmaaldrich.com/CH/fr/support/calculators-and-apps/mass-molarity-calculator?srsltid=AfmBOorsaac7BKk0WhD5_x0mo4iELr1S1a1lRS4quN9XICQeIxsh77vj" target="_blank">Molarity Calculator Sigma</a><br>
-
-* [Molar Solution Concentration Calculator](https://www.physiologyweb.com/calculators/molar_solution_concentration_calculator.html) <br>
 * <a href="https://www.physiologyweb.com/calculators/molar_solution_concentration_calculator.html" target="_blank">Molar Solution Concentration Calculator</a><br>
 
 #### Ligation Calculator
