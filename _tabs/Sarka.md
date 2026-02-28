@@ -38,7 +38,6 @@ author: Sarka
     <th><img src="uploads/Sarka/Sarka_gallery/s10.png" alt="" border=3 height=200 ></th>
   </tr>
 </table>
-
 </div>
 -->
 

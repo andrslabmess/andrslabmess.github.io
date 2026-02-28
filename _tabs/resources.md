@@ -66,7 +66,7 @@ There is definitely more amazing stuff out there ... just for inspiration ....
 In progess
 
 #### NEUBIAS Network of European Bioimage Analysts
-* <a href="(https://www.youtube.com/@NEUBIAS)" target="_blank">You Tube tutorials</a><br>
+* <a href="https://www.youtube.com/@NEUBIAS" target="_blank">You Tube tutorials</a><br>
 
 #### Cell Profiler
 * <a href="https://cellprofiler.org/" target="_blank">Web</a><br>
