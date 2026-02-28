@@ -16,9 +16,7 @@ There is definitely more amazing stuff out there ... just for inspiration ....
 ## Online calculators
 
 #### Calculators & Apps MERC
-* <a href="https://www.sigmaaldrich.com/CH/en/support/calculators-and-apps" target="_blank">This Toolbox features science tools and resources for chemistry, life science, materials science and more.</a><br>
-
-[This Toolbox features science tools and resources for chemistry, life science, materials science and more.](https://www.sigmaaldrich.com/CH/en/support/calculators-and-apps)
+* <a href="https://www.sigmaaldrich.com/CH/en/support/calculators-and-apps" target="_blank">This Toolbox features science tools and resources for chemistry, life science, materials science and more</a><br>
 
 #### Molarity Calculator
 * <a href="https://www.sigmaaldrich.com/CH/fr/support/calculators-and-apps/mass-molarity-calculator?srsltid=AfmBOorsaac7BKk0WhD5_x0mo4iELr1S1a1lRS4quN9XICQeIxsh77vj" target="_blank">Molarity Calculator Sigma</a><br>
