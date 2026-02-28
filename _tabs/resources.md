@@ -11,8 +11,6 @@ author: Sarka
 There is definitely more amazing stuff out there ... just for inspiration ....
 {: .prompt-tip }
 
-<a href="" target="_blank"></a><br>
-
 ## Online calculators
 
 #### Calculators & Apps MERC
