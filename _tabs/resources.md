@@ -111,7 +111,6 @@ In progess
 
 #### The Human Genome Project
 * <a href="https://www.genome.gov/human-genome-project" target="_blank">Home page</a><br>
-* <a href="" target="_blank"></a><br>
 
 #### NCI: Cancer Genome Sequencing
 * <a href="https://www.cancer.gov/ccg/research/genome-sequencing" target="_blank">Home Page</a><br>
