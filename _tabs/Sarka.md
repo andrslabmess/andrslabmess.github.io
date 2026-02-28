@@ -12,8 +12,8 @@ author: Sarka
 <br>
 [<img src="uploads/buttons_png/contact.png" width="130" alt="email"/>](#contact)
 [<img src="uploads/buttons_png/Illustrations.png" width="130" alt="email"/>](/2025-07-31-Illustrations/)
-[<img src="uploads/buttons_png/BlueSky.png" width="130" alt="email"/>](https://bsky.app/profile/bezinka02.bsky.social)
-
+<!--[<img src="uploads/buttons_png/BlueSky.png" width="130" alt="email"/>](https://bsky.app/profile/bezinka02.bsky.social)
+-->
 
 
 ## Brief introduction
