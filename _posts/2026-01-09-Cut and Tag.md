@@ -10,11 +10,26 @@ description:
 
 ## Intro
 
+<a href="https://www.activemotif.com/applications-cut-and-tag">CUT&Tag Resource Center</a><br>
+<a href="https://www.activemotif.com/catalog/1365/r-loop-service">CUT&Tag-IT® R-loop Service</a><br>
+<a href="https://www.activemotif.com/catalog/1376/cut-tag-r-loop-kit">CUT&Tag-IT® R-loop Assay Kit</a><br>
+<a href="https://www.activemotif.com/catalog/1383/cut-tag-spike-in-r-loop">CUT&Tag-IT® Spike-In Control, R-loop</a><br>
+
+
 ## 1. Cut & Tag protocol
-***Note***
-* we used reduced volumes of reagents/solvents when we weren't sure if we had enough (specified in Marketa’s protocol)
+***Note*** 
 <br>
-<object data= "{{ site.url }}/../uploads/Sarka/protocols/Exp.20_Library prep. with Cristiana.pdf" width="800" height="800" type='application/pdf'></object>
+we used reduced volumes of reagents/solvents when we weren't sure if we had enough (specified in Marketa’s protocol)
+<br>
+<object data= "{{ site.url }}/../uploads/Sarka/protocols/CutAndTag.pdf" width="800" height="800" type='application/pdf'></object>
+<br>
+<br>
+<a href="https://www.activemotif.com/documents/2265.pdf">PDF: Protocol; CUT&Tag-IT™ R-loop Assay Kit</a><br>
+<a href="https://www.activemotif.com/documents/2280.pdf">PDF: CUT&Tag-IT®
+ Spike-In Control, R-loop</a><br>
+<a href="https://www.activemotif.com/documents/2305.pdf">PDF: Counting Cells and Nuclei
+for Epigenetic Applications</a><br>
+
 
 #### Library Preparation for Illumina
 * I find this one very usefull 
@@ -57,7 +72,9 @@ description:
 
 <br>
 <br>
-* <a href="https://youtube.com/shorts/ishea7isuG8">Our video protocol for Agilent TapeStation Software 5.1</a><br>
+>
+<a href="https://youtube.com/shorts/ishea7isuG8">Our video protocol for Agilent TapeStation Software 5.1</a><br>
+{: .prompt-tip }
 <br>
 <br>
 
@@ -67,11 +84,20 @@ TapeStation tutorial - very nicely explained; Workflow: sapmple preparation from
 * <a href="https://www.youtube.com/watch?v=c-I4aioxMBo">You Toube: Agilent TapeStation: DNA and RNA Applications; Workflow from 14:54</a><br>
 * <a href="https://www.malariagen.net/wp-content/uploads/2023/10/GbS04_Agilent_TapeStation.pdf">Agilent TapeStation</a><br>
 
-## 4. Pooling Calculator Illumina
-<a href="https://support.illumina.com/help/pooling-calculator/pooling-calculator.htm">Click</a><br>
+## 4. Pooling
+<br>
+<a href="https://support.illumina.com/help/pooling-calculator/pooling-calculator.htm">Pooling Calculator Illumina</a><br>
 
 <br>
-* use elution buffer as diluent for pooling
+>
+* use elution buffer as diluent for pooling - correct concentration of Tris <br>
+{: .prompt-info }
+
+<br>
+>
+* use elution buffer as diluent for pooling - correct concentration of Tris <br>
+{: .prompt-info }
+
 <br>
 <br>
 
