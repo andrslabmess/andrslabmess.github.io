@@ -11,8 +11,8 @@ author: Sarka
 # Šárka
 <br>
 [<img src="uploads/buttons_png/contact.png" width="130" alt="email"/>](#contact)
-[<img src="uploads/buttons_png/Illustrations.png" width="130" alt="email"/>](/2025-07-31-Illustrations/)
-<!--[<img src="uploads/buttons_png/BlueSky.png" width="130" alt="email"/>](https://bsky.app/profile/bezinka02.bsky.social)
+<!--[<img src="uploads/buttons_png/Illustrations.png" width="130" alt="email"/>](/2025-07-31-Illustrations/)
+[<img src="uploads/buttons_png/BlueSky.png" width="130" alt="email"/>](https://bsky.app/profile/bezinka02.bsky.social)
 -->
 
 
@@ -42,11 +42,11 @@ author: Sarka
 -->
 
 ## Jekyll - The Static Site Generator: Chirpy
-[Chirpy](https://chirpy.cotes.page/)<br>
-[Chirpy-starter](https://github.com/cotes2020/chirpy-starter)<br>
-[Techno Tim](https://technotim.live/posts/jekyll-docs-site/#creating-a-post)<br>
-[Shaw Talebi](https://www.youtube.com/@ShawhinTalebi)<br>
-<br>
+<a href="https://chirpy.cotes.page/" target="_blank">Chirpy</a><br>
+<a href="https://github.com/cotes2020/chirpy-starter" target="_blank">Chirpy-starter</a><br>
+<a href="https://technotim.live/posts/jekyll-docs-site/#creating-a-post" target="_blank">Techno Tim</a><br>
+<a href="https://www.youtube.com/@ShawhinTalebi" target="_blank">Shaw Talebi</a><br>
+
 
 ## Miscellaneous
 <a href="https://www.youtube.com/watch?v=Jl9cUmyVuPQ" target="_blank">Outlook Signature setup with Logo (The Easiest Way)</a><br>
