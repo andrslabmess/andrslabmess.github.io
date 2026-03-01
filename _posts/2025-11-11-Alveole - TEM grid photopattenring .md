@@ -1,5 +1,5 @@
 ---
-title: "2025-11-11-Alveole - TEM grid photopattenring "
+title: "Alveole - TEM grid photopattenring "
 date: 2025-11-11 
 categories: ["Protocols", "Cell culture"]
 tags: ["Cells"]
