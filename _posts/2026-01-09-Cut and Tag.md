@@ -1,5 +1,5 @@
 ---
-title: "..."
+title: "✂️ & 🏷️"
 date: 2026-02-21 
 categories: ["Z_Miscellaneous SaS", "Notes"]
 tags: ["Sequencing"]
