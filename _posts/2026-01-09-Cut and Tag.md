@@ -41,7 +41,19 @@ for Epigenetic Applications</a><br>
 
 <br>
 >
-In my opinion, it is nessecary to establish concntration for pooling. That can be done by Qubit (concentration) or Tapestation (concentration + fragments). For saving samples, maybe only Tapestation is sufficient to see concentration and also quality of sample. Just my opinion. 
+***Qubit & Tapestation***
+<br>
+For a professional NGS library prep, the standard protocol: <br>
+Use the TapeStation for the "Size" and the Qubit for the "Concentration." 
+* When pooling libraries for an Illumina run, even a small error in concentration can lead to "index hopping" or uneven data distribution (where one sample gets 90% of the reads and others get 10%).
+* Using the TapeStation to check size and the Qubit to check molarity ensures your final calculations for pooling (converting ng/µL to nM) are as accurate as possible. <br>
+<br>
+***When can you skip one?***
+<br>
+If you are in a situation where you must choose just one to save time or sample:
+* Use TapeStation only if: Your samples are all the exact same type (e.g., all the same PCR amplicon length) and you have a very high concentration.
+* Use Qubit only if: You already know exactly what size your fragments are (e.g., a specific 300bp PCR product) and don't need to check for degradation.<br>
+(source: Gemini)
 {: .prompt-tip }
 <br>
 
@@ -73,6 +85,11 @@ In my opinion, it is nessecary to establish concntration for pooling. That can b
 <br>
 <a href="https://documents.thermofisher.com/TFS-Assets/LSG/manuals/MAN0017209_Qubit_4_Fluorometer_UG.pdf">Qubit™ 4 Fluorometer: pg 18-28</a><br>
 
+#### Calculation of dsDNA library concentration
+* if you would like to calculate concentration from Qubit
+* <a href="https://knowledge.illumina.com/library-preparation/dna-library-prep/library-preparation-dna-library-prep-reference_material-list/000001240" target="_blank">dsDNA library concentration</a><br>
+<br>
+ 
 
 ### 2B. Tapestation
 
@@ -93,12 +110,13 @@ TapeStation tutorial - very nicely explained; Workflow: sapmple preparation from
 * <a href="https://www.malariagen.net/wp-content/uploads/2023/10/GbS04_Agilent_TapeStation.pdf">Agilent TapeStation</a><br>
 
 ## 3. Pooling
-<br>
-<a href="https://support.illumina.com/help/pooling-calculator/pooling-calculator.htm">Pooling Calculator Illumina</a><br>
+
+* <a href="https://support.illumina.com/help/pooling-calculator/pooling-calculator.htm">Pooling Calculator Illumina</a><br>
 
 <br>
 >
-use elution buffer as diluent for pooling - correct concentration of Tris <br>
+* concentration from libraries
+* elution buffer as diluent for pooling - correct concentration of Tris <br>
 {: .prompt-info }
 
 <br>
@@ -106,7 +124,7 @@ use elution buffer as diluent for pooling - correct concentration of Tris <br>
 ***Novaseq X***
 * pool samples equimolarly
 * the minimum 5nM to guarantee the best results
-* 35 μL per lane (minimum volume)
+* 35 μL per lane (minimum volume); can be higher
 * pool in a 1.5 mL low-bind tube
 {: .prompt-info }
 
@@ -114,7 +132,7 @@ use elution buffer as diluent for pooling - correct concentration of Tris <br>
 >
 ***Under-represented samples*** <br> 
 Example
-* pool all experimental samples equimolarly 
+* pool all experimental samples equimolarly (5nM)
 * pool the 4 negative controls at a slightly lower molarity<br>
 {: .prompt-info }
 
