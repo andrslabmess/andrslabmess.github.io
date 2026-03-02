@@ -106,6 +106,8 @@ Example
 * pool all experimental samples equimolarly 
 * pool the 4 negative controls at a slightly lower molarity
  <br>
+It is better to discuss dilution with the genomics center before pooling 
+ <br>
 {: .prompt-info }
 
 <br>
