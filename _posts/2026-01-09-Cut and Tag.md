@@ -37,7 +37,15 @@ for Epigenetic Applications</a><br>
 
 <a href="https://www.neb.com/en/products/next-generation-sequencing-library-preparation/library-preparation-for-illumina">Library Preparation for Illumina: text & videos</a><br>
 
-## 2. Qubit
+## 2. Concentration
+
+<br>
+>
+In my opinion, it is nessecary to establish concntration for pooling. That can be done by Qubit (concentration) or Tapestation (concentration + fragments). For saving samples, maybe only Tapestation is sufficient to see concentration and also quality of sample. Just my opinion. 
+{: .prompt-tip }
+<br>
+
+### 2A. Qubit
 ***Note***
 * protocols are usualy everywhere with Qubit
 * there are special tubes for it
@@ -66,7 +74,7 @@ for Epigenetic Applications</a><br>
 <a href="https://documents.thermofisher.com/TFS-Assets/LSG/manuals/MAN0017209_Qubit_4_Fluorometer_UG.pdf">Qubit™ 4 Fluorometer: pg 18-28</a><br>
 
 
-## 3. Tapestation
+### 2B. Tapestation
 
 <object data= "{{ site.url }}/../uploads/Sarka/protocols/TapeStation.pdf" width="800" height="800" type='application/pdf'></object>
 
@@ -84,7 +92,7 @@ TapeStation tutorial - very nicely explained; Workflow: sapmple preparation from
 * <a href="https://www.youtube.com/watch?v=c-I4aioxMBo">You Toube: Agilent TapeStation: DNA and RNA Applications; Workflow from 14:54</a><br>
 * <a href="https://www.malariagen.net/wp-content/uploads/2023/10/GbS04_Agilent_TapeStation.pdf">Agilent TapeStation</a><br>
 
-## 4. Pooling
+## 3. Pooling
 <br>
 <a href="https://support.illumina.com/help/pooling-calculator/pooling-calculator.htm">Pooling Calculator Illumina</a><br>
 
@@ -98,7 +106,7 @@ use elution buffer as diluent for pooling - correct concentration of Tris <br>
 ***Novaseq X***
 * pool samples equimolarly
 * the minimum 5nM to guarantee the best results
-* 35 μL per lane 
+* 35 μL per lane (minimum volume)
 * pool in a 1.5 mL low-bind tube
 {: .prompt-info }
 
@@ -129,4 +137,5 @@ It is better to discuss dilution with the genomics center before pooling.
 #### Learn about Illumina's Next-Generation Sequencing Workflow
 <a href="https://www.youtube.com/watch?v=oIJaA6h2bFM&ab_channel=Illumina">Illumina's Next-Generation Sequencing Workflow</a><br>
 
-
+#### Calculation of dsDNA library concentration
+* <a href="https://knowledge.illumina.com/library-preparation/dna-library-prep/library-preparation-dna-library-prep-reference_material-list/000001240" target="_blank">Click</a><br>
