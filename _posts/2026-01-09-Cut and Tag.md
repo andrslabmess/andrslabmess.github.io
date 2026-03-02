@@ -51,9 +51,9 @@ Use the TapeStation for the "Size" and the Qubit for the "Concentration."
 ***When can you skip one?***
 <br>
 If you are in a situation where you must choose just one to save time or sample:
-* Use TapeStation only if: Your samples are all the exact same type (e.g., all the same PCR amplicon length) and you have a very high concentration.
-* Use Qubit only if: You already know exactly what size your fragments are (e.g., a specific 300bp PCR product) and don't need to check for degradation.<br>
-(source: Gemini)
+* TapeStation only : samples are all the exact same type (e.g., all the same PCR amplicon length) and you have a very high concentration.
+* Qubit only: already know exactly what size your fragments are (e.g., a specific 300bp PCR product) and don't need to check for degradation.<br>
+*(source: Gemini)*
 {: .prompt-tip }
 <br>
 
