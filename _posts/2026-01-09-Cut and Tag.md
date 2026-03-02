@@ -99,7 +99,7 @@ use elution buffer as diluent for pooling - correct concentration of Tris <br>
 * pool samples equimolarly
 * the minimum 5nM to guarantee the best results
 * 35 μL per lane 
-* pool in a 1.5 mL low-bind tube 
+* pool in a 1.5 mL low-bind tube
 {: .prompt-info }
 
 <br>
@@ -108,9 +108,12 @@ use elution buffer as diluent for pooling - correct concentration of Tris <br>
 Example
 * pool all experimental samples equimolarly 
 * pool the 4 negative controls at a slightly lower molarity<br>
-<br>
-It is better to discuss dilution with the genomics center before pooling. <br>
 {: .prompt-info }
+
+<br>
+>
+It is better to discuss dilution with the genomics center before pooling.
+{: .prompt-tip }
 
 <br>
 <br>
