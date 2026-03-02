@@ -95,7 +95,17 @@ TapeStation tutorial - very nicely explained; Workflow: sapmple preparation from
 
 <br>
 >
-* use elution buffer as diluent for pooling - correct concentration of Tris <br>
+***Novaseq X***
+* the minimum 5nM to guarantee the best results
+* pool all experimental samples equimolarly
+* 35 μL per lane 
+* pool in a 1.5 mL low-bind tube
+
+***Under-represented samples***
+Example
+* pool all experimental samples equimolarly 
+* pool the 4 negative controls at a slightly lower molarity
+ <br>
 {: .prompt-info }
 
 <br>
