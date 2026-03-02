@@ -56,7 +56,7 @@ for Epigenetic Applications</a><br>
 * thaw at r.t. (but keep on the ice rest of the time)
 * “flick the samples” – to homogenize
 * spin down (short spin at r.t. centrifuge)
-* mix with buffer (pipet first buffer 199μL and than sample 1μL)
+* mix with buffer (pipet first buffer 199μL and then sample 1μL)
 * quick vortex
 * incubation (r.t.; 3 min; can differ base of kit)
 * measure (ng/μL) + write down a concentrations
@@ -90,24 +90,26 @@ TapeStation tutorial - very nicely explained; Workflow: sapmple preparation from
 
 <br>
 >
-* use elution buffer as diluent for pooling - correct concentration of Tris <br>
+use elution buffer as diluent for pooling - correct concentration of Tris <br>
 {: .prompt-info }
 
 <br>
 >
 ***Novaseq X***
+* pool samples equimolarly
 * the minimum 5nM to guarantee the best results
-* pool all experimental samples equimolarly
 * 35 μL per lane 
-* pool in a 1.5 mL low-bind tube
+* pool in a 1.5 mL low-bind tube 
+{: .prompt-info }
 
-***Under-represented samples***
+<br>
+>
+***Under-represented samples*** <br> 
 Example
 * pool all experimental samples equimolarly 
-* pool the 4 negative controls at a slightly lower molarity
- <br>
-It is better to discuss dilution with the genomics center before pooling 
- <br>
+* pool the 4 negative controls at a slightly lower molarity<br>
+<br>
+It is better to discuss dilution with the genomics center before pooling. <br>
 {: .prompt-info }
 
 <br>
