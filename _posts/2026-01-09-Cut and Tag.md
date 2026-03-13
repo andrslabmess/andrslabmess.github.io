@@ -143,6 +143,9 @@ It is better to discuss dilution with the genomics center before pooling.
 
 <br>
 <br>
+![image](uploads/Sarka/protocols/IlluminaPoolingCal.png){: .centre width="400"}
+<br>
+<br>
 
 ## Further resources
 
