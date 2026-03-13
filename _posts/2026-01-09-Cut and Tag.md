@@ -114,6 +114,10 @@ TapeStation tutorial - very nicely explained; Workflow: sapmple preparation from
 * <a href="https://support.illumina.com/help/pooling-calculator/pooling-calculator.htm">Pooling Calculator Illumina</a><br>
 
 <br>
+![image](uploads/Sarka/protocols/IlluminaPoolingCal.png){: .centre width="400"}
+<br>
+
+<br>
 >
 * concentration from libraries
 * elution buffer as diluent for pooling - correct concentration of Tris <br>
@@ -142,9 +146,7 @@ It is better to discuss dilution with the genomics center before pooling.
 {: .prompt-tip }
 
 <br>
-<br>
-![image](uploads/Sarka/protocols/IlluminaPoolingCal.png){: .centre width="400"}
-<br>
+
 <br>
 
 ## Further resources
