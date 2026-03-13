@@ -142,7 +142,13 @@ Example
 
 <br>
 >
-It is better to discuss dilution with the genomics center before pooling.
+It is better to discuss dilution with the genomics center before pooling.<br>
+{: .prompt-tip }
+
+
+<br>
+>
+Let them know, which assay was used at TapeStation - for their quality assesment (**HS D1000**, or they can try D5000 for longer fragments).
 {: .prompt-tip }
 
 <br>
