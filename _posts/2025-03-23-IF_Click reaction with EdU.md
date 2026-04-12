@@ -54,7 +54,6 @@ Filter sterilize, before each usage inspect the solution for contamination. Filt
 
 ### Click reaction: + fixation with CSK buffer pre-extraction
 
-[Pre-extraction buffers]({% link _posts/2025-03-23-IF_General protocol.md %})
 
 1. optional: transfer coverslips with cells into multiwell plate
 1. treat the cells, for EdU staining add 20 μM of EdU for 15 min
