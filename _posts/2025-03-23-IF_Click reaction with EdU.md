@@ -13,7 +13,7 @@ description: Next-Generation Sequencing.
 ## Material
 
 ### Pre-extraction buffers
-[CSK (cytoskeletal) buffer]({% link _posts/2025-03-23-IF_General protocol and pre-extraction.md %})
+
 
 ### Fixing solution
 
