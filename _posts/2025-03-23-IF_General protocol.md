@@ -15,8 +15,9 @@ description: General protocol and pre-extraction.
 > * 24-well plate: 0.5 mL of solutions, 1 mL of 1xPBS for washes (the most difficult for handling with CVs)
 {: .prompt-warning }
 
-The protocol might be modify for specific cell lines or proteins; <br> works well for U2OS, Hela, RPE-1 or MDF (mouse dermal fibroblast).
-
+>
+>The protocol might be modify for specific cell lines or proteins; <br> works well for U2OS, Hela, RPE-1 or MDF (mouse dermal fibroblast).
+{: .prompt-warning }
 
 > ***Wash general*** <br>
 >1. aspirate liquid
