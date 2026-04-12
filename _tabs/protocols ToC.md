@@ -18,5 +18,3 @@ There is definitely more amazing stuff out there ... just for inspiration ....
 
 #### Immunostaining
 * <a href="https://www.sigmaaldrich.com/CH/en/support/calculators-and-apps" target="_blank">This Toolbox features science tools and resources for chemistry, life science, materials science and more</a><br>
-
-[Click](_posts\2025-03-23-IF_General protocol and pre-extraction copy.md)
