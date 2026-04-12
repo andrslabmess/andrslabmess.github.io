@@ -2,7 +2,7 @@
 layout: post
 toc: true
 icon: fas fa-duotone fa-solid fa-dna
-order: 1
+order: 4
 author: Šárka
 ---
 ![HeroImage](uploads/Martin/251111_Banner.png)
@@ -27,7 +27,11 @@ DNA replication, DNA damage, oxidative stress, R-loops, cancer
  <a href="https://www.iem.cas.cz/en/department/department-of-genome-biology/" target="_blank">Department of genome biology IEM CAS</a><br>
 
 ## ***Open position***
-[Click]({% link _tabs/Open position.md %})
+
+><br>
+While we do not have any immediate openings, we are always keen to hear from highly motivated candidates.
+{: .prompt-tip }
+<br>
 
 ## ***Group members***
 
