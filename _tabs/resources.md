@@ -133,11 +133,6 @@ In progess
 #### R-loopBase 
 * <a href="https://rloopbase.nju.edu.cn/index.jsp" target="_blank">Home page</a><br>
 
-#### Galaxy server
-* <a href="https://usegalaxy.eu/" target="_blank">The European Galaxy server</a><br>
-* <a href="https://training.galaxyproject.org/training-material/" target="_blank">Galaxy Training!</a><br>
-* <a href="https://training.galaxyproject.org/training-material/events/2025-05-12-galaxy-academy-2025.html" target="_blank">Galaxy Training Academy 2025</a><br>
-
 
 ## Seminars, talks, lectures .... 
 * <a href="https://liulab-dfci.github.io/teaching" target="_blank">STAT115 Lectures: chromosome organisation, epigenetics, bioinformatics: Website</a><br>
@@ -161,6 +156,7 @@ In progess
 <br>
 * <a href="https://www.lifescience-youngscientists.uzh.ch/en/aboutus.html" target="_blank">Life Science Zurich Young Scientist Network</a><br>
 * <a href="https://www.youtube.com/@EMBLAlumniRelations" target="_blank">EMBL Alumni: You Tube</a><br>
+* <a href="https://www.youtube.com/watch?v=oIJaA6h2bFM&ab_channel=Illumina" target="_blank">Illumina's Next-Generation Sequencing Workflow</a><br>
 
 ## Podcasts
 * <a href="https://www.nature.com/nature/articles?type=nature-podcast" target="_blank">Nature</a><br>
