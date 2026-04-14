@@ -28,10 +28,13 @@ DNA replication, DNA damage, oxidative stress, R-loops, cancer
 
 ## ***Open position***
 
-><br>
+> ***Postdoc & PhD students*** <br>
 While we do not have any immediate openings, we are always keen to hear from highly motivated candidates.
 {: .prompt-tip }
-<br>
+
+> ***Master and bachelor students*** <br>
+If you are passionalte about our work, please feel free to reach out.
+{: .prompt-tip }
 
 ## ***Group members***
 
