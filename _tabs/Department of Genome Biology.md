@@ -33,7 +33,7 @@ While we do not have any immediate openings, we are always keen to hear from hig
 {: .prompt-tip }
 
 > ***Master and bachelor students*** <br>
-If you are passionalte about our work, please feel free to reach out.
+If you are passionate about our work, please feel free to reach out.
 {: .prompt-tip }
 
 ## ***Group members***
