@@ -4,7 +4,7 @@ date: 2025-01-31
 categories: ["Protocols", "Immunofluorescence"]
 tags: ["IF"]
 comments: true
-author:  ["Martin", "Sarka"]
+author:  ["Sarka", "Martin"]
 description: General protocol and pre-extraction.
 ---
 
@@ -84,11 +84,11 @@ seeding HeLa, U2OS, DMF etc. 20 000 - 30 000 cells/cm<sup>2</sup>
 
 * wash cells with PBS (1-2x)
 * ice-cold pre-extraction buffer (5-10 min; on ice)
-* wash the cells with preextraction buffer without Triton-X (2x)
+* wash the cells with preextraction buffer without Triton X-100 (2x)
 <br>
 <br>
 >Example: <br>
->* 0.2 % Triton X in PBS <br>
+>* 0.2 % Triton X-100 in PBS <br>
 >* Note*: more stringent; can be used for proteins bound to DNA
 >* cytoskeletal (CSK) buffer
 >* methanol (-20°C) pre-extraction & fixation; wash only PBS
@@ -108,6 +108,20 @@ seeding HeLa, U2OS, DMF etc. 20 000 - 30 000 cells/cm<sup>2</sup>
 >Example: <br>
 >* 4% Formaldehyde (15 min; r.t.; work in the chemical hood)
 >* methanol: (20 min; -20°C)
+
+<br>
+
+### Permmeabization
+
+> Enables antibodies or stains to penetrate the cell to reach internal antigens.
+{: .prompt-info }
+
+<br>
+<br>
+>Example: <br>
+>* 0.2 % Triton X-100 in PBS <br>
+>* methanol (-20°C) permeabilization & fixation; wash only PBS
+
 
 <br>
 
@@ -296,3 +310,8 @@ seeding HeLa, U2OS, DMF etc. 20 000 - 30 000 cells/cm<sup>2</sup>
     <td>40</td>
   </tr>
 </table>
+
+## Resources
+
+* <a href="https://ibidi.com/content/category/19-immunofluorescence-if?gad_source=1&gad_campaignid=22364326736&gbraid=0AAAAADsjyZMKBGR1rOHrJEfzkc_5LvBXj&gclid=Cj0KCQjwyr3OBhD0ARIsALlo-OnCTMHxHPBxp5HJgmmT-LcCNs2qUcZLOxgqHxAjXJXQe7NAHKNn9fQaAuwYEALw_wcB" target="_blank">Ibidi: Immunofluorescence</a><br>
+* <a href="https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/documents/276/959/yale-if-procedure.pdf?srsltid=AfmBOor8vlBrbqpRPAJljxmQoLemJiZvx6-eez-UDoLz8ldDDCY4EfO9" target="_blank">Sigma Aldrich: Yale IF procedure.pd</a><br>
