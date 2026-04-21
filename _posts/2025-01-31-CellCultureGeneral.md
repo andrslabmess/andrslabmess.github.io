@@ -22,9 +22,9 @@ description: General protocol for cells maitanence. The most of the credit goes 
 * further information: Usefull numberes in cell culture
 
 ### Protocol
-* cells should be growing well or known to be in log phase (semi-confluent, aprox. 70 - 80 %)
-* remove medium, wash once with pre-warmed PBS, decant it and add T/E
-* incubate (3-5 min; 37°C), check the progress under microscope
+* cells should be growing well and to be in log phase (semi-confluent, aprox. 70 - 80 %)
+* remove medium, wash once with pre-warmed PBS, decant it
+* add T/E, incubate (3-5 min; 37°C), check the progress under microscope
 * once the cells are rounded up and detached from the plastic surface, add pre-warmed media and vigorously wash any remaining cells from the bottom of the culture vessel
 * transfer propriate volume of the cell suspension to a suitable culture vessel and add propriate volume of media
 * incubate as usually (e.g. 37°C, 5% CO2)
@@ -32,8 +32,6 @@ description: General protocol for cells maitanence. The most of the credit goes 
 ##### ATCC Resources
 [Guide to Subculturing Cell Line Monolayers](https://www.atcc.org/resources/technical-documents/guide-to-subculturing-cell-line-monolayers)
 
-
-## Cell counting
 
 
 ## Cell harvesting and freezing
@@ -46,7 +44,7 @@ description: General protocol for cells maitanence. The most of the credit goes 
 * falcon (usualy 15mL-falcon) cryovial(s)
 * Mr. Frosty device (pre-warmed to r.t.)
 
-***Note***: Composition of cryoprotective medium can differ (see Usefull numberes in cell culture: cryoprotective medium)
+***Note***: The composition of cryoprotective medium can differ
 
 ### Protocol
 * cells should be growing well or known to be in log phase (semi-confluent, aprox. 70 - 80 %)
@@ -54,7 +52,7 @@ description: General protocol for cells maitanence. The most of the credit goes 
 * incubate (3-5 min; 37°C), check the progress of the enzyme treatment under microscope
 * once the cells are rounded up and detached from the plastic surface, add pre-warmed media and vigorously wash any remaining cells from the bottom of the culture vessel
 * transfer to falcon tube and centrifuge (1000 rpm; 3 min)
-* decant supernatant, resuspend cell pellet by tapping and slowly add cryoprotective medium to give a final cell concentration of 1 to 2x10<sup>6</sup> cells/mL (usually 1 ml of cell suspension from 25cm2 per 1 cryovial)
+* decant supernatant, resuspend cell pellet by tapping and slowly add cryoprotective medium to give a final cell concentration of 1 to 2x10<sup>6</sup> cells/mL (usually 1 mL of cell suspension from 25 cm<sup>2</sup> per 1 cryovial)
 * transfer 1 ml of cell suspension to appropriately labeled cryovial(s), place cryovial(s) into Mr. Frosty device (pre-warmed to RT) and place it to -80 C freezer for cca 24 h
 * then move the cryovials to appropriate storage place (-80 C freezer box for short term storage or to liquid nitrogen for long-term storage)
 
@@ -70,7 +68,7 @@ description: General protocol for cells maitanence. The most of the credit goes 
 
 
 ### Protocol
-* remove the cryovial from liquid nitrogen storage (in laminar hood, turn the cap a quarter turn to release any residual nitrogen that may be trapped, then re-tighten the cap), or from -80 C freezer and immediately transfer to 37°C water bath
+* remove the cryovial from liquid nitrogen storage (in laminar hood, turn the cap a quarter turn to release any residual nitrogen that may be trapped, then re-tighten the cap), or from -80°C freezer and immediately transfer to 37°C water bath
 * while holding the tip of the cryovial, gently agitate the cryovial, being careful not to allow water to penetrate the cap or seal
 * when completely thawed, transfer contents of cryovial to falcone
 * slowly add 5-10 mL pre-warmed media and centrifuge (1000 rpm; 3 min)
