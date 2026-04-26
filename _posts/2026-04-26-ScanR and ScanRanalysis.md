@@ -8,7 +8,7 @@ author:  ["Sarka", "Martin"]
 description: Next-Generation Sequencing.
 ---
 
-## Light microspopes
+## Light microscopes
 
 ### Olympus ScanR HCS (Irchel)
 * <a href="https://zmb.dozuki.com/Guide/Olympus+ScanR+HCS+(Irchel)+-+Part1:+Start+up/104" target="_blank">Part1: Start up</a>
