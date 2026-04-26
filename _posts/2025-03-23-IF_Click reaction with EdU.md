@@ -22,7 +22,7 @@ description: Next-Generation Sequencing.
 ### Blocking solution
 
 3 % BSA in PBS <br>
-Filter sterilize, before each usage inspect the solution for contamination. Filter again is necessary
+* filter sterilize, before each usage inspect the solution for contamination; filter again is necessary
 
 ### Click reaction for EdU
 
@@ -38,31 +38,30 @@ Filter sterilize, before each usage inspect the solution for contamination. Filt
 ## Protocol
 ### Cell seeding
 
-1. insert sterile coverslips in dishes/well plates
-1. seed the cells to have apporx. 70 % confluency the next day
-1. add dox or other 24h treatments, if necessary
+* insert sterile coverslips in dishes/well plates
+* seed the cells to have approx. 70 % confluency day of experiment
+* (add dox or other 24 h treatments)
 
 ### Click reaction: + fixation without CSK buffer pre-extraction
 
-1. if the cells are seeded onto dish: transfer coverslips with cells into multiwell plate with pre-warm medium
-1. EdU staining: add EdU (final conc 20 μM; for 15 min) 
-1. wash cells with r.t. 1x PBS
-1. fix the cells with 500 uL fixing solution, leave for 15 min r.t. in the chemical hood
-1. wash coverslips 3 times with 1x PBS
-1. permeabilize coverslips with 0.2 % Triton-X in PBS for 10 min, r.t.
-1. wash coverslips 2x wit 1x PBS
+* if the cells are seeded onto dish: transfer coverslips with cells into multiwell plate with pre-warm medium
+* EdU staining: add EdU (final conc 20 μM; for 15 min) 
+* wash cells with PBS (r.t.) 
+* fix the cells with 500 μL of fixing solution (15 min r.t.; in the chemical hood)
+* wash coverslips 3x  with PBS
+* permeabilize coverslips with 0.2 % Triton-X in PBS (10 min; r.t.)
+* wash coverslips 2x with PBS
 
 ### Click reaction: + fixation with CSK buffer pre-extraction
 
-
-1. optional: transfer coverslips with cells into multiwell plate
-1. treat the cells, for EdU staining add 20 μM of EdU for 15 min
-1. wash cells with r.t. 1x PBS
-1. add 500 uL of ice-cold pre-extraction buffer and leave it on ice for 5 or 10 minutes
-1. wash the cells with ice-cold preextraction buffer without Triton-X
-1. fix the cells with 500 μL fixing solution, leave for 15 min r.t. in the chemical hood
-1. wash coverslips 3 times with 1x PBS
-1. when staining PCNA: fix the cells addditionally with -20°C methanol (20 min at -20°C); wash 3x with 1x PBS
+* optional: transfer coverslips with cells into multiwell plate
+* treat the cells, for EdU staining add 20 μM of EdU for 15 min
+* wash cells with r.t. 1x PBS
+* add 500 uL of ice-cold pre-extraction buffer and leave it on ice for 5 or 10 minutes
+* wash the cells with ice-cold preextraction buffer without Triton-X
+* fix the cells with 500 μL fixing solution (15 min r.t. in the chemical hood)
+* wash coverslips 3 times with 1x PBS
+* when staining PCNA: fix the cells addditionally with -20°C methanol (20 min at -20°C); wash 3x with 1x PBS
 
 ### Staining
 

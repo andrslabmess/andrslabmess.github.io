@@ -8,7 +8,7 @@ author: Sarka
 description: 
 ---
 >
-[Original source](https://www.cellsignet.com/media/templ.html)
+<a href="https://www.cellsignet.com/media/templ.html" target="_blank">Original source</a><br>
 {: .prompt-tip }
 
 
