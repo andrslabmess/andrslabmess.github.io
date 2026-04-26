@@ -24,7 +24,8 @@ author: Sarka
 
 
 #### ImageJ/FIJI
-* <a href="https://andrslabmess.github.io/posts/IF_General-protocol/" target="_blank">General protocol: Immunofluorescence</a><br>
+* <a href="https://andrslabmess.github.io/posts/ImageJ/" target="_blank">General</a><br>
+* <a href="https://andrslabmess.github.io/posts/BIO247-ImageJ/" target="_blank">BIO247 2026: Images import, representative images, fibers tract measurment, foci counting</a><br>
 
 
 #### Light Microscopy
