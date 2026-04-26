@@ -1,0 +1,33 @@
+---
+title: "ScanR, Spinning Disk and ScanRanalysis"
+date: 2026-04-26 
+categories: ["Protocols", "Immunofluorescence"]
+tags: ["IF","ScanR","Microscopy"]
+comments: true
+author:  ["Sarka", "Martin"]
+description: Next-Generation Sequencing.
+---
+
+## Light microspopes
+
+### Olympus ScanR HCS (Irchel)
+* <a href="https://zmb.dozuki.com/Guide/Olympus+ScanR+HCS+(Irchel)+-+Part1:+Start+up/104" target="_blank">Part1: Start up</a>
+* <a href="https://zmb.dozuki.com/Guide/Olympus+ScanR+HCS+(Irchel)+-+Part2:+Image+Acquisition/117" target="_blank">Part2: Image Acquisition</a>
+* <a href="https://zmb.dozuki.com/Guide/Olympus+ScanR+HCS+(Irchel)+-+Part2:+Image+Acquisition/117" target="_blank">Part3: Log off / Shut down</a>
+
+### Olympus Spinning Disk (Irchel)
+* <a href="https://zmb.dozuki.com/Guide/Olympus+Spinning+Disk+-+1:+Start+up/26" target="_blank">1: Start up</a>
+* <a href="https://zmb.dozuki.com/Guide/Olympus+Spinning+Disk+-+scanR+Acquisition/227" target="_blank">scanR Acquisition</a>
+* <a href="https://zmb.dozuki.com/Guide/Olympus+Spinning+Disk+-+Shut+Down/35" target="_blank">Shut Down</a>
+
+
+## ScanR analysis
+
+<object data= "{{ site.url }}/../uploads/Sarka/protocols/ScanR_analysis.pdf" width="700" height="700" type='application/pdf'></object>
+
+
+
+## Further information
+* <a href="https://imaging.au.dk/fileadmin/dandrite/Logo/scanR-Acquisition31_en_00__1_.pdf" target="_blank">INSTRUCTIONS: ScanR AUTOMATED IMAGE ACQUISITION SOFTWARE</a>
+* <a href="https://www.zmbh.uni-heidelberg.de/Central_Services/Imaging_Facility/info/scanR_An.pdf" target="_blank">INSTRUCTIONS: ScanR AUTOMATED IMAGE AND DATA ANALYSIS SOFTWARE</a>
+* <a href="https://www.youtube.com/watch?v=4hlYsQTV4Bk" target="_blank">YouTube: TruAI in High Content Screening and Automated Microscopy Analysis</a>
