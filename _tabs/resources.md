@@ -150,7 +150,6 @@ In progess
 * <a href="https://www.youtube.com/@incconsortium9388" target="_blank">International Nucleome Consortium: You Tube</a><br>
 <br>
 * <a href="https://www.youtube.com/@bioinformaticscoach" target="_blank">Bioinformatics Coach: You Tube</a><br>
-* <a href="https://www.youtube.com/playlist?list=PLe1-kjuYBZ07QXg-rokpjbcqYJrgvEIHE" target="_blank">Bioinformatics Coach: Galaxy Tutorials for Bioinformatics</a><br>
 * <a href="https://www.youtube.com/@Riffomonas" target="_blank">Riffomonas Project: You Tube</a><br>
 * <a href="https://www.youtube.com/@statquest" target="_blank">StatQuest with Josh Starme: You Tube</a><br>
 <br>
