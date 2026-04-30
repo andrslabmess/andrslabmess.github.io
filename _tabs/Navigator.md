@@ -29,4 +29,4 @@ author: Sarka
 
 
 #### Light Microscopy
-* <a href="https://andrslabmess.github.io/posts/ScanR-and-ScanRanalysis/" target="_blank">ScanR, Spinning Disk and ScanRanalysis</a><br>
+* <a href="https://andrslabmess.github.io/posts/QIBC/" target="_blank">QIBC: ScanR, Spinning Disk and ScanRanalysis</a><br>
