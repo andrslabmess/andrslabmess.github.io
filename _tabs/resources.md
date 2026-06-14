@@ -135,11 +135,11 @@ In progess
 
 
 ## Seminars, talks, lectures .... 
-* <a href="https://liulab-dfci.github.io/teaching" target="_blank">STAT115 Lectures: chromosome organisation, epigenetics, bioinformatics: Website</a><br>
-* <a href="https://www.youtube.com/@xiaoleshirleyliu6474/featured" target="_blank">STAT115 Lectures: chromosome organisation, epigenetics, bioinformatics: You Tube</a><br>
 * <a href="https://generegulation.org/fragile-nucleosome/" target="_blank">Fragile Nucleosome: Website</a><br>
 * <a href="https://www.youtube.com/@FragileNucleosome" target="_blank">Fragile Nucleosome: You Tube</a><br>
 * <a href="https://www.youtube.com/c/4DNucleome/featured" target="_blank">4D Nucleome</a><br>
+* <a href="https://liulab-dfci.github.io/teaching" target="_blank">STAT115 Lectures: chromosome organisation, epigenetics: Website</a><br>
+* <a href="https://www.youtube.com/@xiaoleshirleyliu6474/featured" target="_blank">STAT115 Lectures: chromosome organisation, epigenetics: You Tube</a><br>
 * <a href="https://www.youtube.com/@PhysGenCenter/videos" target="_blank">Center for Physical Genomics and Engineering at Northwestern University: molecular biology, super-resolution imaging, bioengineering, physics, and chemistry</a><br>
 * <a href="https://www.coursicle.com/ucdavis/courses/MCB/182/" target="_blank">MCB 182 - Principles of Genomics</a><br>
 * <a href="https://www.activemotif.com/chromatin-clubs" target="_blank">Active motif: Chromatin Clubs & Epigenetics Events</a><br>
